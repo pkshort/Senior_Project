@@ -1,0 +1,702 @@
+
+{
+    "Error": false,
+    "Message": "Success",
+    "Nodes": [
+        {
+
+            "source": "Performance Studies",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "Mathematics",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Graduate Study in Education",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Writing",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Graduate Study in Business",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Art",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "No Affiliation",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Physics and Astronomy",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Anthropology",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Chemisty",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Biochemisty",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Economics",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Television-Radio",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Modern Languages and Literatures",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Music Theory, History, and Composition",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "Integrative Studies",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source":  "Politics",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Honors Program",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source":  "Computer Science",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Music Education",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "Sociology",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Women's and Gender Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Latin American Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Physical Therapy",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "New York City Program/Center",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Journalism",
+            "target":  "Roy H. Park School of Communications"
+
+        },
+        {
+
+            "source": "Occupational Therapy",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Graduate Study in Occupational Therapy",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Health Promotion and Physical Education",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Graduate Study in Health Promotion and Physical Education",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Women's and Gender Studies",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "JB Pendleton Center Los Angeles",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Speech-Language Pathology and Audiology",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Graduate Study in Speech-Language Pathology and Audiology",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "No Affiliation",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "History",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Physical Therapy Graduate Portion",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Biology",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Premed Option",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Cinema and Photography",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "No Affiliation",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Philosophy and Religion",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Communication Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Accounting",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Psychology",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Strategic Communication",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Environmental Studies and Sciences",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Sport Management",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Text Image",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Jewish Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Integrated Marketing Communications",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Communication Management and Design",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Theatre Arts",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Recreation and Leisure Studies",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Center for the Study of Culture, Race, and Ethnicity",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Documentary Studies and Production",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Physics and Astronomy",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Native American Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Exercise and Sport Sciences",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Library",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Finance and International Business",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Media Arts, Sciences and Studies",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Marketing and Law",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Women's, and Gender Studies Coordinator, Psychology",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Education",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Movement Analysis Lab",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Latin American Studies",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Art History",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "No Affiliation",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Graduate Study in Image Text",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "English",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Premed Option",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Integrative Studies",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Gerontology",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Education",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Culture and Communication",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Classical Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Medieval and Renaissance Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Women's and Gender Studies",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "School of Music",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Mathematics and Computer Science",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "New York City Program/Center",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "Physical Therapy Rochester",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Women's and Gender Studies",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "Mathematics",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Executive Masters in Communications Innovation",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Writing for Film, Television, and Emerging Media",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Graduate Study in Education",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Marketing",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Legal Studies",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Integrative Studies",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Television and Radio",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Management",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Latin American Studies",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Documentary Studies and Production",
+            "target":  "Roy H. Park School of Communications"
+
+        },
+        {
+
+            "source": "No Affiliation",
+            "target":  "School of Business"
+
+        },
+        {
+
+            "source": "Environmental Studies and Science",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "No Affiliation",
+            "target":  "Roy H. Park School of Communications"
+
+        },
+        {
+
+            "source": "Health Science and Human Perf/Smiddy",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Sports Media",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Business Administration",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Integrative Studies",
+            "target":  "School of Health Sciences and Human Performance"
+
+        },
+        {
+
+            "source": "Health Science&Human; Perf/Hill Ctr",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Sports Media",
+            "target":  "Roy H. Park School of Communications"
+
+        },
+        {
+
+            "source": "Honors Program",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Prelaw Option",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Environmental Studies and Sciences",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Health Science and Human Perf/Hill Center",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Emerging Media Degree",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Latin American Studies",
+            "target":  "School of Music"
+
+        },
+        {
+            "source": "Jewish Studies",
+            "target":  "School of Music"
+
+        },
+        {
+
+            "source": "Writing",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Recreation and Leisure Studies",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Movement Analysis Lab",
+            "target":  "School of Humanities and Sciences"
+
+        },
+        {
+
+            "source": "Psychology",
+            "target":  "No Affiliation"
+
+        },
+        {
+
+            "source": "Health Promotion and Human Movement",
+            "target":  "No Affiliation"
+
+        }
+    ]
+}

@@ -36,9 +36,9 @@ REST_ROUTER.prototype.handleRoutes = function(router, connection, md5) {
     });
   });
 
-  router.get("/Proffesor/", function(req, res) {
+  router.get("/Professor/", function(req, res) {
     var query = "SELECT * FROM ??";
-    var table = ["Proffesor"];
+    var table = ["Professor"];
     query = mysql.format(query, table);
     connection.query(query, function(err, rows) {
       if (err) {
