@@ -1,0 +1,2045 @@
+School,Department,firstName,lastName,profType
+"No Affiliation",Accounting,Aniello,Massa,"Emeritus Professor"
+"No Affiliation",Accounting,Carl,Butterfield,"Retired Associate Professor"
+"No Affiliation",Accounting,Diane,McDonough,Lecturer
+"No Affiliation",Accounting,Joanne,Burress,"Retired Professor"
+"No Affiliation",Accounting,Margaret,Shackell,"Assistant Professor"
+"No Affiliation",Accounting,Mary,Bouchard,Lecturer
+"No Affiliation",Accounting,Patricia,Libby,"Retired Associate Professor"
+"No Affiliation",Accounting,Phil,Blackman,"Assistant Professor"
+"No Affiliation",Accounting,Warren,Schlesinger,"Associate Professor"
+"No Affiliation","Business Administration",Joseph,Fonte,"No Affiliation"
+"No Affiliation","Business Administration",Veronica,Fox,"No Affiliation"
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",Belisa,Gonzalez,"Associate Professor and Director"
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",Gustavo,Licon,"Assistant Professor"
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",Iokepa,Salazar,"Assistant Professor"
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",M,Horsley,"Assistant Professor"
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",Pamela,Sertzen,Lecturer
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",Paula,Ioanide,"Associate Professor"
+"No Affiliation","Center for the Study of Culture, Race, and Ethnicity",Steven,Ikier,Lecturer
+"No Affiliation","Cinema and Photography",Andrew,Utterson,"Associate Professor"
+"No Affiliation","Cinema and Photography",Andy,Watts,"Assistant Professor"
+"No Affiliation","Cinema and Photography",Benjamin,Frahm,Lecturer
+"No Affiliation","Cinema and Photography",Bradley,Rappa,"Assistant Professor"
+"No Affiliation","Cinema and Photography",Cathy,Crane,"Associate Professor"
+"No Affiliation","Cinema and Photography",Jason,Harrington,"Associate Professor"
+"No Affiliation","Cinema and Photography",Joshua,Bonnetta,"Associate Professor"
+"No Affiliation","Cinema and Photography",Lena,Masur,Lecturer
+"No Affiliation","Cinema and Photography",Matt,Holtmeier,"Assistant Professor"
+"No Affiliation","Cinema and Photography",Nicholas,Muellner,"Associate Professor"
+"No Affiliation","Cinema and Photography",Rhonda,Vanover,"Assistant Professor"
+"No Affiliation","Cinema and Photography",Robyn,Wishna,Lecturer
+"No Affiliation","Cinema and Photography",Rory,Fraser,"Assistant Professor"
+"No Affiliation","Cinema and Photography",Steven,Skopik,Professor
+"No Affiliation","Communication Management and Design",Ari,Kissiloff,"Assistant Professor"
+"No Affiliation","Communication Management and Design",Cory,Young,"Associate Professor"
+"No Affiliation","Communication Management and Design",Dennis,Charsky,"Associate Professor and Communication"
+"No Affiliation","Communication Management and Design",Edward,Schneider,"Assistant Professor"
+"No Affiliation","Communication Management and Design",Gordon,Rowland,Professor
+"No Affiliation","Communication Management and Design",Howard,Kalman,"Associate Professor"
+"No Affiliation","Communication Management and Design",Monica,Hallman,Lecturer
+"No Affiliation","Communication Management and Design",Sandra,Herndon,"Emerita Professor"
+"No Affiliation","Communication Management and Design",Steven,Seidman,"Professor Emeritus and Lecturer"
+"No Affiliation","Communication Management and Design",Vicki,Taylor,Lecturer
+"No Affiliation","Communication Management and Design",Yvette,Sterbenk,"Assistant Professor"
+"No Affiliation","Documentary Studies and Production",Ben,Crane,"Associate Professor"
+"No Affiliation","Documentary Studies and Production",Changhee,Chun,"Associate Professor"
+"No Affiliation","Documentary Studies and Production",Gossa,Tsegaye,"Assistant Professor"
+"No Affiliation","Documentary Studies and Production",James,Rada,"Associate Professor and Chair"
+"No Affiliation","Documentary Studies and Production",Janice,Levy,Professor
+"No Affiliation","Documentary Studies and Production",John,Scott,"Associate Professor"
+"No Affiliation","Documentary Studies and Production",Mara,Alper,"Retired Associate Professor"
+"No Affiliation","Documentary Studies and Production",Marlena,Grzaslewicz,"Pendleton Endowed Chair and Assistant Professor"
+"No Affiliation","Documentary Studies and Production",Patricia,Zimmermann,Professor
+"No Affiliation","Documentary Studies and Production",Peter,Johanns,"Associate Professor and Television-Radio Program Director"
+"No Affiliation","Documentary Studies and Production",Tom,Nicholson,"Associate Professor"
+"No Affiliation",Education,Carla,Stetson,"Associate Professor and Chair"
+"No Affiliation",Education,Christine,Hafer,"Assistant Professor"
+"No Affiliation",Education,Cristina,Gomez,"Associate Professor"
+"No Affiliation",Education,Jeane,Copenhaver,"Associate Professor and Chair"
+"No Affiliation",Education,Kacey,Wochna,Lecturer
+"No Affiliation",Education,Linda,Hanrahan,"Retired Associate Professor"
+"No Affiliation",Education,Patricia,Tempesta,"Retired Assistant Professor"
+"No Affiliation",Education,Peter,Martin,"Associate Professor"
+"No Affiliation",Education,Teresa,Michel,"No Affiliation"
+"No Affiliation",Education,Terrance,Burgess,Lecturer
+"No Affiliation",Education,Zenon,Wasyliw,Professor
+"No Affiliation","Environmental Studies and Science",Jed,Jordan,Lecturer
+"No Affiliation","Environmental Studies and Science",John,Hopple,Lecturer
+"No Affiliation","Environmental Studies and Science",Karryn,Olson,Lecturer
+"No Affiliation","Environmental Studies and Science",Nancy,Menning,Lecturer
+"No Affiliation","Environmental Studies and Science",Scott,Doyle,Lecturer
+"No Affiliation","Environmental Studies and Science",Tim,Drake,Lecturer
+"No Affiliation","Environmental Studies and Science",Xanthe,Matychak,Lecturer
+"No Affiliation","Environmental Studies and Sciences",Anne,Stork,"Assistant Professor"
+"No Affiliation","Environmental Studies and Sciences",Christopher,Sinton,"Associate Professor"
+"No Affiliation","Environmental Studies and Sciences",Fae,Dremock,"Assistant Professor"
+"No Affiliation","Environmental Studies and Sciences",Jason,Hamilton,"Professor and Chair"
+"No Affiliation","Environmental Studies and Sciences",Michael,Smith,"Associate Professor"
+"No Affiliation","Environmental Studies and Sciences",Sandra,Steingraber,"No Affiliation"
+"No Affiliation","Executive Masters in Communications Innovation",Edward,Nathan,Lecturer
+"No Affiliation","Finance and International Business",Bob,Andolina,Lecturer
+"No Affiliation","Finance and International Business",Chris,Kim,Lecturer
+"No Affiliation","Finance and International Business",Dennis,Merryfield,Lecturer
+"No Affiliation","Finance and International Business",Gehan,Dhameeth,Lecturer
+"No Affiliation","Finance and International Business",Jae,Jung,Lecturer
+"No Affiliation","Finance and International Business",Judy,Qiu,"Assistant Professor"
+"No Affiliation","Finance and International Business",Raquib,Zaman,"Emeritus Professor"
+"No Affiliation",Gerontology,Christine,Pogorzala,"Assistant Professor"
+"No Affiliation",Gerontology,Elizabeth,Bergman,"Associate Professor and Chair"
+"No Affiliation",Gerontology,John,Krout,Lecturer
+"No Affiliation",Gerontology,Lisa,Kendall,Lecturer
+"No Affiliation","Graduate Study in Business",Abraham,Mulugetta,"Dana Professor"
+"No Affiliation","Graduate Study in Business",Alan,Cohen,"Associate Professor"
+"No Affiliation","Graduate Study in Business",Alison,Shields,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Alka,Bramhandkar,"Professor and Chair"
+"No Affiliation","Graduate Study in Business",Donald,Eckrich,"Retired Professor"
+"No Affiliation","Graduate Study in Business",Duncan,Garcia,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Fahri,Unsal,"Professor and Chair"
+"No Affiliation","Graduate Study in Business",Hormoz,Movassaghi,Professor
+"No Affiliation","Graduate Study in Business",Jeff,Lippitt,"Associate Professor and Chair"
+"No Affiliation","Graduate Study in Business",Joseph,Cheng,"Retired Associate Professor"
+"No Affiliation","Graduate Study in Business",Kurt,Komaromi,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Marie,Blouin,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Matt,Rodgers,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Matthew,Geiszler,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Moustafa,AbuELFadl,"Assistant Professor"
+"No Affiliation","Graduate Study in Business",Narges,Kasiri,"Associate Professor"
+"No Affiliation","Graduate Study in Business",Scott,Erickson,Professor
+"No Affiliation","Graduate Study in Business",Susan,Rosenthal,"Associate Professor"
+"No Affiliation","Graduate Study in Business",William,Tastle,"Professor and Chair"
+"No Affiliation","Graduate Study in Education",Aaron,Weinberg,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"No Affiliation","Graduate Study in Education",Carla,Stetson,"Associate Professor and Chair"
+"No Affiliation","Graduate Study in Education",Chris,Holmes,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Cristina,Gomez,"Associate Professor"
+"No Affiliation","Graduate Study in Education",David,Brown,"Professor and Chair"
+"No Affiliation","Graduate Study in Education",Derek,Adams,"Assistant Professor"
+"No Affiliation","Graduate Study in Education",Elizabeth,Bleicher,"Associate Professor and Exploratory Program Director"
+"No Affiliation","Graduate Study in Education",Felice,Russell,"Assistant Professor"
+"No Affiliation","Graduate Study in Education",Heather,Hill,"Assistant Professor"
+"No Affiliation","Graduate Study in Education",James,Swafford,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Jason,Freitag,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Jeff,Perry,Lecturer
+"No Affiliation","Graduate Study in Education",Jonathan,Ablard,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Karin,Breuer,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Matthew,Price,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Matthew,Sullivan,Professor
+"No Affiliation","Graduate Study in Education",Michael,Smith,"Associate Professor"
+"No Affiliation","Graduate Study in Education",Michael,Trotti,Professor
+"No Affiliation","Graduate Study in Education",Michael,Twomey,"Retired Dana Professor"
+"No Affiliation","Graduate Study in Education",Mike,Haaf,Professor
+"No Affiliation","Graduate Study in Education",Thomas,Pfaff,Professor
+"No Affiliation","Graduate Study in Education",Zenon,Wasyliw,Professor
+"No Affiliation","Health Promotion and Human Movement",Victor,Mancini,"Retired Professor"
+"No Affiliation","Health Science and Human Perf/Hill Center",Natalie,Smith,"Retired Assistant Professor"
+"No Affiliation","Health Science and Human Perf/Hill Center",William,Ware,"Retired Assistant Professor"
+"No Affiliation","Health Science&Human; Perf/Hill Ctr",Martha,Kelsey,"Emerita Professor"
+"No Affiliation","Honors Program",Alexander,Moon,"Assistant Professor"
+"No Affiliation","Honors Program",Bruce,Henderson,Professor
+"No Affiliation","Honors Program",Carla,Golden,Professor
+"No Affiliation","Honors Program",Claire,Gleitman,Professor
+"No Affiliation","Honors Program",Cory,Brown,"Associate Professor"
+"No Affiliation","Honors Program",David,Flanagan,"Assistant Professor"
+"No Affiliation","Honors Program",Diane,McPherson,"Retired Associate Professor"
+"No Affiliation","Honors Program",Donald,Beachler,"Associate Professor"
+"No Affiliation","Honors Program",Elia,Kacapyr,Professor
+"No Affiliation","Honors Program",Elizabeth,Bleicher,"Associate Professor and Exploratory Program Director"
+"No Affiliation","Honors Program",Frederik,Kaufman,Professor
+"No Affiliation","Honors Program",Gary,Wells,"Associate Professor"
+"No Affiliation","Honors Program",Hugh,Egan,Professor
+"No Affiliation","Honors Program",Jack,Hrkach,"Emeritus Professor"
+"No Affiliation","Honors Program",James,Conklin,"Associate Professor"
+"No Affiliation","Honors Program",James,Rothenberg,"Associate Professor"
+"No Affiliation","Honors Program",James,Swafford,"Associate Professor"
+"No Affiliation","Honors Program",Jason,Freitag,"Associate Professor"
+"No Affiliation","Honors Program",Jean,Hardwick,Professor
+"No Affiliation","Honors Program",John,Maceli,"Emeritus Professor"
+"No Affiliation","Honors Program",Jonathan,Ablard,"Associate Professor"
+"No Affiliation","Honors Program",Kevin,Murphy,Professor
+"No Affiliation","Honors Program",Lauren,O'Connell,Professor
+"No Affiliation","Honors Program",Marlene,Kobre,"Retired Assistant Professor"
+"No Affiliation","Honors Program",Mary,O'Connor,"Retired Assistant Professor"
+"No Affiliation","Honors Program",Michael,Richardson,Professor
+"No Affiliation","Honors Program",Michael,Rogers,Professor
+"No Affiliation","Honors Program",Michael,Smith,"Associate Professor"
+"No Affiliation","Honors Program",Michael,Twomey,"Retired Dana Professor"
+"No Affiliation","Honors Program",Naeem,Inayatullah,Professor
+"No Affiliation","Honors Program",Nancy,Rader,Professor
+"No Affiliation","Honors Program",Osman,Yurekli,Professor
+"No Affiliation","Honors Program",Peter,Melcher,Professor
+"No Affiliation","Honors Program",Ron,Denson,"Assistant Professor"
+"No Affiliation","Honors Program",Shaianne,Osterreich,"Associate Professor"
+"No Affiliation","Honors Program",Stanley,Seltzer,"Associate Professor"
+"No Affiliation","Honors Program",Stephen,Clancy,"Emeritus Professor"
+"No Affiliation","Honors Program",Thomas,Pfaff,Professor
+"No Affiliation","Honors Program",Thomas,Shevory,Professor
+"No Affiliation","Honors Program",Vivian,Conger,"Associate Professor"
+"No Affiliation","Honors Program",Zillah,Eisenstein,"Emerita Professor"
+"No Affiliation","Integrated Marketing Communications",Arhlene,Flowers,"Associate Professor"
+"No Affiliation","Integrated Marketing Communications",Lisa,Farman,"Assistant Professor"
+"No Affiliation","Integrated Marketing Communications",Mike,Mooney,"Assistant Professor"
+"No Affiliation","Integrated Marketing Communications",Scott,Hamula,"Associate Professor and Chair"
+"No Affiliation","Integrative Studies",Alex,Reed,"Associate Professor"
+"No Affiliation","Integrative Studies",Christine,Bataille,"Assistant Professor"
+"No Affiliation","Integrative Studies",Gary,Wells,"Associate Professor"
+"No Affiliation","Integrative Studies",Jerry,Mirskin,Professor
+"No Affiliation","Integrative Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"No Affiliation","Integrative Studies",Julia,Lapp,"Associate Professor"
+"No Affiliation","Integrative Studies",Mary,Erickson,"Associate Professor"
+"No Affiliation","Integrative Studies",Mike,Haaf,Professor
+"No Affiliation","Integrative Studies",Norman,Johnson,"Associate Professor"
+"No Affiliation","JB Pendleton Center Los Angeles",Amy,Gruberg,Lecturer
+"No Affiliation","JB Pendleton Center Los Angeles",Cathryn,Boxberger,Lecturer
+"No Affiliation","JB Pendleton Center Los Angeles",Donna,Gotch,Lecturer
+"No Affiliation","JB Pendleton Center Los Angeles",Mac,Torluccio,Lecturer
+"No Affiliation","JB Pendleton Center Los Angeles",Sarah,Moshman,Lecturer
+"No Affiliation","JB Pendleton Center Los Angeles",Scott,Cooper,Lecturer
+"No Affiliation","JB Pendleton Center Los Angeles",Stanley,Landes,Lecturer
+"No Affiliation","Latin American Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"No Affiliation","Latin American Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"No Affiliation","Latin American Studies",Carole,Dennis,Professor
+"No Affiliation","Latin American Studies",Enrique,Gonzalez,"Assistant Professor"
+"No Affiliation","Latin American Studies",Gladys,Varona,Professor
+"No Affiliation","Latin American Studies",Hector,Velez,"Retired Associate Professor"
+"No Affiliation","Latin American Studies",Jake,Brenner,"Associate Professor"
+"No Affiliation","Latin American Studies",Jeff,Claus,"Emeritus Professor"
+"No Affiliation","Latin American Studies",Jennifer,Jolly,"Associate Professor and Chair"
+"No Affiliation","Latin American Studies",Jessica,Taves,"Assistant Professor"
+"No Affiliation","Latin American Studies",Jonathan,Ablard,"Associate Professor"
+"No Affiliation","Latin American Studies",Julie,Dorsey,"Associate Professor"
+"No Affiliation","Latin American Studies",Katherine,Beissner,"Retired Professor"
+"No Affiliation","Latin American Studies",Lynn,Gitlow,"Associate Professor"
+"No Affiliation","Latin American Studies",Michael,Malpass,"Dana Professor"
+"No Affiliation","Latin American Studies",Pablo,Cohen,"Associate Professor"
+"No Affiliation","Latin American Studies",Patricia,Rodriguez,"Associate Professor and Latin American Studies Coordinator"
+"No Affiliation","Latin American Studies",Paula,Turkon,"Assistant Professor"
+"No Affiliation","Latin American Studies",Shaianne,Osterreich,"Associate Professor"
+"No Affiliation","Latin American Studies",Stewart,Auyash,"Associate Professor and Chair"
+"No Affiliation","Latin American Studies",Susan,Allen,Professor
+"No Affiliation","Latin American Studies",Zillah,Eisenstein,"Emerita Professor"
+"No Affiliation","Legal Studies",Gary,Surdell,Lecturer
+"No Affiliation","Legal Studies",Gwen,Seaquist,"Professor and Legal Studies Program Coordinator"
+"No Affiliation","Legal Studies",Luke,Fenchel,Lecturer
+"No Affiliation","Legal Studies",Marlene,Barken,"Associate Professor"
+"No Affiliation",Library,Betty,Birdsey,"Retired Associate Professor"
+"No Affiliation",Library,Everett,Morse,"Retired Assistant Professor"
+"No Affiliation",Library,Kurt,Bogart,"Retired Associate Professor"
+"No Affiliation",Management,Granger,Macy,"Retired Associate Professor"
+"No Affiliation",Management,Jae,Lee,"Assistant Professor"
+"No Affiliation",Management,Jason,Salfi,Lecturer
+"No Affiliation",Management,John,Vongas,"Assistant Professor"
+"No Affiliation",Management,Robert,Ellis,"Assistant Professor"
+"No Affiliation",Management,Sarah,Zheng,"Assistant Professor"
+"No Affiliation",Management,Ute,Clair,Lecturer
+"No Affiliation",Marketing,Gail,Hogan,"Retired Associate Professor"
+"No Affiliation","Marketing and Law",Brooke,Dawson,Lecturer
+"No Affiliation","Marketing and Law",Ed,Bizari,Lecturer
+"No Affiliation","Marketing and Law",Fatima,Hajjat,"Assistant Professor"
+"No Affiliation","Marketing and Law",Illa,Burbank,Lecturer
+"No Affiliation","Marketing and Law",Jim,Johnson,Lecturer
+"No Affiliation","Marketing and Law",Johnine,McCartney,"Assistant Professor"
+"No Affiliation","Marketing and Law",Michael,McCall,"Retired Professor"
+"No Affiliation",Mathematics,Aaron,Weinberg,"Associate Professor"
+"No Affiliation",Mathematics,Andrew,Marshall,"Assistant Professor"
+"No Affiliation",Mathematics,Cristina,Gomez,"Associate Professor"
+"No Affiliation",Mathematics,Dani,Novak,"Emeritus Professor"
+"No Affiliation",Mathematics,Daniel,Visscher,"Assistant Professor"
+"No Affiliation",Mathematics,David,Brown,"Professor and Chair"
+"No Affiliation",Mathematics,Diane,Schwartz,"Emerita Professor"
+"No Affiliation",Mathematics,Doris,Wolfgramm,Lecturer
+"No Affiliation",Mathematics,Dorothy,Buerk,"Emerita Professor"
+"No Affiliation",Mathematics,Emilie,Wiesner,"Associate Professor"
+"No Affiliation",Mathematics,Eric,Robinson,"Emeritus Professor"
+"No Affiliation",Mathematics,Jack,VanDerzee,"Retired Assistant Professor, Adjunct"
+"No Affiliation",Mathematics,James,Conklin,"Associate Professor"
+"No Affiliation",Mathematics,John,Maceli,"Emeritus Professor"
+"No Affiliation",Mathematics,John,Rosenthal,Professor
+"No Affiliation",Mathematics,Margaret,Robinson,"Retired Assistant Professor"
+"No Affiliation",Mathematics,Martin,Sternstein,"Emeritus Professor"
+"No Affiliation",Mathematics,Matt,Thomas,"Assistant Professor"
+"No Affiliation",Mathematics,Megan,Martinez,"Assistant Professor"
+"No Affiliation",Mathematics,Osman,Yurekli,Professor
+"No Affiliation",Mathematics,Richard,Cowan,Lecturer
+"No Affiliation",Mathematics,Stanley,Seltzer,"Associate Professor"
+"No Affiliation",Mathematics,Stephen,Hilbert,"Emeritus Professor"
+"No Affiliation",Mathematics,Ted,Galanthay,"Assistant Professor"
+"No Affiliation",Mathematics,Teresa,Moore,"Associate Professor"
+"No Affiliation",Mathematics,Thomas,Pfaff,Professor
+"No Affiliation",Mathematics,Toncy,Edakalathoor,Lecturer
+"No Affiliation",Mathematics,Vera,Babenko,"Assistant Professor"
+"No Affiliation","Mathematics and Computer Science",David,Brown,"Retired Associate Professor"
+"No Affiliation","Media Arts, Sciences and Studies",Bob,Rossi,Lecturer
+"No Affiliation","Media Arts, Sciences and Studies",Keith,Hannon,Lecturer
+"No Affiliation","Media Arts, Sciences and Studies",Mark,Grimm,Lecturer
+"No Affiliation","Media Arts, Sciences and Studies",Melanie,Arnold,Lecturer
+"No Affiliation","Media Arts, Sciences and Studies",Michael,Robinson,Lecturer
+"No Affiliation","Media Arts, Sciences and Studies",Nidaa,Aboulhosn,"Assistant Professor"
+"No Affiliation","New York City Program/Center",Allan,Mednard,Lecturer
+"No Affiliation","New York City Program/Center",Anahi,Douglas,Lecturer
+"No Affiliation","New York City Program/Center",Anthony,Volante,Lecturer
+"No Affiliation","New York City Program/Center",Bruce,Eidem,Lecturer
+"No Affiliation","New York City Program/Center",David,Lefkowich,Lecturer
+"No Affiliation","New York City Program/Center",David,Pietro,Lecturer
+"No Affiliation","New York City Program/Center",Harry,Weil,Lecturer
+"No Affiliation","New York City Program/Center",Jennifer,Caprio,Lecturer
+"No Affiliation","New York City Program/Center",Louis,Jargow,Lecturer
+"No Affiliation","New York City Program/Center",Michael,Kaplan,Lecturer
+"No Affiliation","New York City Program/Center",Reuben,Allen,Lecturer
+"No Affiliation","New York City Program/Center",Saisha,Grayson,Lecturer
+"No Affiliation","New York City Program/Center",Thomas,Piercy,Lecturer
+"No Affiliation","No Affiliation",Adam,Lee,"No Affiliation"
+"No Affiliation","No Affiliation",Alexandre,Pinto,"No Affiliation"
+"No Affiliation","No Affiliation",Amy,O'Brien,"No Affiliation"
+"No Affiliation","No Affiliation",Amy,Quan,"No Affiliation"
+"No Affiliation","No Affiliation",Andrew,Bergevin,"No Affiliation"
+"No Affiliation","No Affiliation",Angela,Branneman,"No Affiliation"
+"No Affiliation","No Affiliation",Ann,Byrne,"No Affiliation"
+"No Affiliation","No Affiliation",Barbara,Anger,"No Affiliation"
+"No Affiliation","No Affiliation",Bill,Altman,"No Affiliation"
+"No Affiliation","No Affiliation",Brad,Treat,"No Affiliation"
+"No Affiliation","No Affiliation",Brett,Kocher,"No Affiliation"
+"No Affiliation","No Affiliation",Caroline,Ostrander,"No Affiliation"
+"No Affiliation","No Affiliation",Carrie,Tamayo,"No Affiliation"
+"No Affiliation","No Affiliation",Colin,Williams,"No Affiliation"
+"No Affiliation","No Affiliation",Dan,Barrow,"No Affiliation"
+"No Affiliation","No Affiliation",Dana,Tischler,"No Affiliation"
+"No Affiliation","No Affiliation",Edward,Panar,"No Affiliation"
+"No Affiliation","No Affiliation",Gabriel,Condon,"No Affiliation"
+"No Affiliation","No Affiliation",Greg,Smith,"No Affiliation"
+"No Affiliation","No Affiliation",Heather,Sheridan,"No Affiliation"
+"No Affiliation","No Affiliation",Holli,Mast,"No Affiliation"
+"No Affiliation","No Affiliation",Jamie,Rombach,"No Affiliation"
+"No Affiliation","No Affiliation",Jason,Muenzen,"No Affiliation"
+"No Affiliation","No Affiliation",Jennifer,Wilkie,"No Affiliation"
+"No Affiliation","No Affiliation",Jessica,Stratton,"No Affiliation"
+"No Affiliation","No Affiliation",Jill,Loop,"No Affiliation"
+"No Affiliation","No Affiliation",Jim,Murphy,"No Affiliation"
+"No Affiliation","No Affiliation",Jim,Overhiser,"No Affiliation"
+"No Affiliation","No Affiliation",Judith,Levitt,"No Affiliation"
+"No Affiliation","No Affiliation",Katie,Sheehan,"No Affiliation"
+"No Affiliation","No Affiliation",Kenneth,Christianson,"No Affiliation"
+"No Affiliation","No Affiliation",Kerri,Lynch,"No Affiliation"
+"No Affiliation","No Affiliation",Kit,Muma,"No Affiliation"
+"No Affiliation","No Affiliation",Lauren,Cesari,"No Affiliation"
+"No Affiliation","No Affiliation",Lucas,Blalock,"No Affiliation"
+"No Affiliation","No Affiliation",Marcy,Sutherland,"No Affiliation"
+"No Affiliation","No Affiliation",Marty,Alderman,"No Affiliation"
+"No Affiliation","No Affiliation",Michelle,Cole,"No Affiliation"
+"No Affiliation","No Affiliation",Nandadevi,Rodriguez,"No Affiliation"
+"No Affiliation","No Affiliation",Nick,Sagan,"No Affiliation"
+"No Affiliation","No Affiliation",Pamela,Pospisil,"No Affiliation"
+"No Affiliation","No Affiliation",Raza,Ahmad,"No Affiliation"
+"No Affiliation","No Affiliation",Richard,Montgomery,"No Affiliation"
+"No Affiliation","No Affiliation",Robert,Newman,"No Affiliation"
+"No Affiliation","No Affiliation",Roy,Westwater,"No Affiliation"
+"No Affiliation","No Affiliation",Ruth,Barber,"No Affiliation"
+"No Affiliation","No Affiliation",Sam,Brown,"No Affiliation"
+"No Affiliation","No Affiliation",Shehnaz,Haqqani,"No Affiliation"
+"No Affiliation","No Affiliation",Steven,Novakovic,"No Affiliation"
+"No Affiliation","No Affiliation",Sueyoung,Park,"No Affiliation"
+"No Affiliation","No Affiliation",Test,Staff,"No Affiliation"
+"No Affiliation","No Affiliation",Thomas,Seeley,"No Affiliation"
+"No Affiliation","No Affiliation",Tucker,Davis,"No Affiliation"
+"No Affiliation","No Affiliation",Vanessa,Mirabito,"No Affiliation"
+"No Affiliation","No Affiliation",Yoon,Choi,"No Affiliation"
+"No Affiliation","Physical Therapy Rochester",Deborah,Nawoczenski,"Retired Professor"
+"No Affiliation","Physical Therapy Rochester",Ernest,Nalette,"Retired Associate Professor and Director"
+"No Affiliation","Physics and Astronomy",Ahren,Sadoff,"Emeritus Professor"
+"No Affiliation","Physics and Astronomy",Beth,Joseph,"Professor and Chair"
+"No Affiliation","Physics and Astronomy",Bruce,Thompson,"Associate Professor"
+"No Affiliation","Physics and Astronomy",Colleen,Countryman,"Assistant Professor"
+"No Affiliation","Physics and Astronomy",Daniel,Briotta,"Associate Professor"
+"No Affiliation","Physics and Astronomy",David,Kornreich,"Assistant Professor"
+"No Affiliation","Physics and Astronomy",John,Schwartz,"Retired Associate Professor"
+"No Affiliation","Physics and Astronomy",Kelley,Sullivan,"Assistant Professor"
+"No Affiliation","Physics and Astronomy",Luke,Keller,"Dana Professor"
+"No Affiliation","Physics and Astronomy",Paulen,Smith,"Emeritus Professor"
+"No Affiliation","Physics and Astronomy",Ryan,Ashton,Lecturer
+"No Affiliation","Physics and Astronomy",Shoshe,Cole,"Assistant Professor"
+"No Affiliation","Physics and Astronomy",Yeliz,Celik,Lecturer
+"No Affiliation",Psychology,Ann,Lynn,"Associate Professor"
+"No Affiliation",Psychology,Bernard,Beins,Professor
+"No Affiliation",Psychology,Brandy,Bessette,"Assistant Professor"
+"No Affiliation",Psychology,Colleen,Bennett,Lecturer
+"No Affiliation",Psychology,Cris,Haltom,Lecturer
+"No Affiliation",Psychology,Cyndy,Scheibe,Professor
+"No Affiliation",Psychology,David,Williams,"Retired Associate Professor"
+"No Affiliation",Psychology,Edward,Sorel,Lecturer
+"No Affiliation",Psychology,Erin,Warren,"Assistant Professor"
+"No Affiliation",Psychology,George,Schuler,"Emeritus Professor"
+"No Affiliation",Psychology,Hugh,Stephenson,"Associate Professor"
+"No Affiliation",Psychology,Jack,Peck,"Retired Professor"
+"No Affiliation",Psychology,Jeff,Holmes,Professor
+"No Affiliation",Psychology,Jessica,Ross,Lecturer
+"No Affiliation",Psychology,Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"No Affiliation",Psychology,Judith,Pena,"Associate Professor and Chair"
+"No Affiliation",Psychology,Karen,Williams,Lecturer
+"No Affiliation",Psychology,Kathryn,Caldwell,"Assistant Professor"
+"No Affiliation",Psychology,Laura,Muscalu,Lecturer
+"No Affiliation",Psychology,Leigh,Vaughn,"Associate Professor"
+"No Affiliation",Psychology,Linda,McBride,"Emerita Professor"
+"No Affiliation",Psychology,Mary,DePalma,Professor
+"No Affiliation",Psychology,Maurice,Haltom,Lecturer
+"No Affiliation",Psychology,Nancy,Rader,Professor
+"No Affiliation",Psychology,Shirley,Collado,"No Affiliation"
+"No Affiliation",Psychology,Tamara,Fitzwater,"Assistant Professor"
+"No Affiliation","Recreation and Leisure Studies",Barbara,DeWall,"Retired Associate Professor"
+"No Affiliation","Recreation and Leisure Studies",Catherine,Gooch,"Adjunct Clinical Assistant Professor and Program Director"
+"No Affiliation","Recreation and Leisure Studies",Christopher,Klinger,"Assistant Professor"
+"No Affiliation","Recreation and Leisure Studies",Elizabeth,Griffin,"Retired Associate Professor"
+"No Affiliation","Recreation and Leisure Studies",Erika,Hartman,Lecturer
+"No Affiliation","Recreation and Leisure Studies",Janice,Monroe,"Associate Professor and Chair"
+"No Affiliation","Recreation and Leisure Studies",Jennifer,Miller,Lecturer
+"No Affiliation","Recreation and Leisure Studies",Joanie,Groome,Lecturer
+"No Affiliation","Recreation and Leisure Studies",Judith,Kennison,"Retired Professor"
+"No Affiliation","Recreation and Leisure Studies",Linda,Heyne,Professor
+"No Affiliation","Recreation and Leisure Studies",Matt,Vosler,"Assistant Professor"
+"No Affiliation","Recreation and Leisure Studies",Maureen,Coats,Lecturer
+"No Affiliation","Recreation and Leisure Studies",Patrick,Lewis,"Assistant Professor"
+"No Affiliation","Recreation and Leisure Studies",Rob,Cook,Lecturer
+"No Affiliation","Recreation and Leisure Studies",Ronald,Simpson,"Retired Associate Professor"
+"No Affiliation","Recreation and Leisure Studies",Sarah,Rich,"Emerita Professor"
+"No Affiliation","Recreation and Leisure Studies",Tom,Knipe,Lecturer
+"No Affiliation","School of Music",David,Berman,"Emeritus Professor"
+"No Affiliation","School of Music",John,Covert,"Emeritus Professor"
+"No Affiliation","School of Music",Marjorie,Porterfield,"Emerita Professor"
+"No Affiliation","School of Music",Mary,Covert,"Emerita Professor"
+"No Affiliation","School of Music",Ronald,Regal,"Retired Professor"
+"No Affiliation","Sport Management",Annemarie,Farrell,"Associate Professor and Chair"
+"No Affiliation","Sport Management",James,Morton,"Assistant Professor"
+"No Affiliation","Sport Management",Rachel,Madsen,"Assistant Professor"
+"No Affiliation","Sport Management",Wayne,Blann,"Retired Professor"
+"No Affiliation","Sport Management",Wonyul,Bae,"Associate Professor"
+"No Affiliation","Sports Media",John,Enright,Lecturer
+"No Affiliation","Sports Media",Kyle,Woody,"No Affiliation"
+"No Affiliation","Sports Media",Mead,Loop,"Associate Professor and Documentary Studies Program Coordinator"
+"No Affiliation","Sports Media",Tim,Mirabito,"Assistant Professor"
+"No Affiliation","Strategic Communication",Ann,Adams,Lecturer
+"No Affiliation","Strategic Communication",Jen,Huemmer,"Assistant Professor"
+"No Affiliation","Strategic Communication",Jessica,Briskin,Lecturer
+"No Affiliation","Strategic Communication",Mary,Kish,"Retired Assistant Professor"
+"No Affiliation","Strategic Communication",Norman,Porticella,Lecturer
+"No Affiliation","Strategic Communication",Susette,Czeropski,Lecturer
+"No Affiliation","Television and Radio",Gordon,Webb,"Retired Assistant Professor"
+"No Affiliation","Television and Radio",John,Rosenbaum,"Retired Associate Professor"
+"No Affiliation",Television-Radio,Alex,Estabrook,"No Affiliation"
+"No Affiliation",Television-Radio,Barbara,Morgenstern,"Associate Professor"
+"No Affiliation",Television-Radio,Brad,Lewter,"Assistant Professor"
+"No Affiliation",Television-Radio,Chrissy,Guest,"Assistant Professor"
+"No Affiliation",Television-Radio,Devan,Rosen,"Associate Professor and Emerging Media Program Director"
+"No Affiliation",Television-Radio,Gary,Ingraham,Lecturer
+"No Affiliation",Television-Radio,Jack,Powers,"Associate Professor and Chair"
+"No Affiliation",Television-Radio,Jerry,Gambell,"Assistant Professor"
+"No Affiliation",Television-Radio,Jon,Hilton,"No Affiliation"
+"No Affiliation",Television-Radio,Jonathan,Bullinger,Lecturer
+"No Affiliation",Television-Radio,Kati,Lustyik,"Associate Professor"
+"No Affiliation",Television-Radio,Lauren,Britton,"Assistant Professor"
+"No Affiliation",Television-Radio,Maria,Yepes,"Assistant Professor"
+"No Affiliation",Television-Radio,Megan,Roberts,"Retired Associate Professor"
+"No Affiliation",Television-Radio,Raymond,Gozzi,"Associate Professor"
+"No Affiliation",Television-Radio,Shaina,Holmes,"No Affiliation"
+"No Affiliation",Television-Radio,Stephen,Tropiano,"Director and Associate Professor"
+"No Affiliation",Television-Radio,Steven,Gordon,"Associate Professor"
+"No Affiliation",Television-Radio,Tom,Bohn,Lecturer
+"No Affiliation",Television-Radio,Wenmouth,Williams,"Retired Professor"
+"No Affiliation",Television-Radio,Will,Russell,Lecturer
+"No Affiliation","Text Image",Annette,Gladman,Lecturer
+"No Affiliation","Text Image",Lucy,Ives,Lecturer
+"No Affiliation","Text Image",Melissa,Catanese,Lecturer
+"No Affiliation","Text Image",Stanley,Wolukau,Lecturer
+"No Affiliation","Women's and Gender Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"No Affiliation","Women's and Gender Studies",Amy,Frith,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Angela,Rudert,Lecturer
+"No Affiliation","Women's and Gender Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"No Affiliation","Women's and Gender Studies",Ashley,Hall,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Bruce,Henderson,Professor
+"No Affiliation","Women's and Gender Studies",Carla,Golden,Professor
+"No Affiliation","Women's and Gender Studies",Claire,Gleitman,Professor
+"No Affiliation","Women's and Gender Studies",Cornell,Woodson,Lecturer
+"No Affiliation","Women's and Gender Studies",Deborah,Rifkin,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Denise,Nuttall,"Associate Professor and Chair"
+"No Affiliation","Women's and Gender Studies",Derek,Adams,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Diane,McPherson,"Retired Associate Professor"
+"No Affiliation","Women's and Gender Studies",Elizabeth,Bishop,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Ellie,Fulmer,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Gladys,Varona,Professor
+"No Affiliation","Women's and Gender Studies",Harriet,Malinowitz,Lecturer
+"No Affiliation","Women's and Gender Studies",Jennifer,Germann,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Jennifer,Spitzer,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"No Affiliation","Women's and Gender Studies",Jonathan,Ablard,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Joslyn,Brenton,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Judith,Barker,"Retired Associate Professor"
+"No Affiliation","Women's and Gender Studies",Karin,Breuer,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Katharine,Kittredge,Professor
+"No Affiliation","Women's and Gender Studies",Katharyn,Machan,Professor
+"No Affiliation","Women's and Gender Studies",Kayla,Wheeler,
+"No Affiliation","Women's and Gender Studies",Laurie,Arliss,"Professor and Chair"
+"No Affiliation","Women's and Gender Studies",Louise,Mygatt,Lecturer
+"No Affiliation","Women's and Gender Studies",Maria,DiFrancesco,"Professor and Chair"
+"No Affiliation","Women's and Gender Studies",Mary,Bentley,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Mat,Fournier,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Natasha,Bissonauth,
+"No Affiliation","Women's and Gender Studies",Nia,Nunn,"Assistant Professor"
+"No Affiliation","Women's and Gender Studies",Rachel,Gunderson,
+"No Affiliation","Women's and Gender Studies",Rachel,Kaufman,Lecturer
+"No Affiliation","Women's and Gender Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"No Affiliation","Women's and Gender Studies",Shaianne,Osterreich,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Shewanee,Howard,Lecturer
+"No Affiliation","Women's and Gender Studies",Sue,Sue,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Tahlia,Fischer,Lecturer
+"No Affiliation","Women's and Gender Studies",Vivian,Conger,"Associate Professor"
+"No Affiliation","Women's and Gender Studies",Zillah,Eisenstein,"Emerita Professor"
+"No Affiliation",Writing,Abbey,Numedahl,Lecturer
+"No Affiliation",Writing,Alex,Chertok,Lecturer
+"No Affiliation",Writing,Angie,Pelekidis,Lecturer
+"No Affiliation",Writing,Anthony,DiRenzo,Professor
+"No Affiliation",Writing,Augusto,Facchini,Lecturer
+"No Affiliation",Writing,Barbara,Adams,"Associate Professor"
+"No Affiliation",Writing,Becca,Myers,Lecturer
+"No Affiliation",Writing,Betsye,Caughey,Lecturer
+"No Affiliation",Writing,Caroline,Manring,Lecturer
+"No Affiliation",Writing,Catherine,Penner,"Retired Associate Professor"
+"No Affiliation",Writing,Catherine,Taylor,"Associate Professor"
+"No Affiliation",Writing,Christine,Kitano,"Assistant Professor"
+"No Affiliation",Writing,Cory,Brown,"Associate Professor"
+"No Affiliation",Writing,Daniel,Wilber,Lecturer
+"No Affiliation",Writing,David,Flanagan,"Assistant Professor"
+"No Affiliation",Writing,Derek,McKown,Lecturer
+"No Affiliation",Writing,Diane,McPherson,"Retired Associate Professor"
+"No Affiliation",Writing,Eleanor,Henderson,"Associate Professor"
+"No Affiliation",Writing,Eric,Howd,"Assistant Professor"
+"No Affiliation",Writing,Erin,Francisco,Lecturer
+"No Affiliation",Writing,Fred,Wilcox,"Retired Associate Professor"
+"No Affiliation",Writing,Geoffrey,Lee,Lecturer
+"No Affiliation",Writing,Gina,Nutt,Lecturer
+"No Affiliation",Writing,Hadley,Smith,"Retired Assistant Professor"
+"No Affiliation",Writing,Harriet,Malinowitz,Lecturer
+"No Affiliation",Writing,Ingrid,Arnesen,Lecturer
+"No Affiliation",Writing,Jack,Wang,"Associate Professor and Chair"
+"No Affiliation",Writing,Jacob,White,"Assistant Professor"
+"No Affiliation",Writing,Jaime,Warburton,"Assistant Professor"
+"No Affiliation",Writing,James,Miranda,Lecturer
+"No Affiliation",Writing,Jerry,Mirskin,Professor
+"No Affiliation",Writing,Jessica,Slentz,"Assistant Professor"
+"No Affiliation",Writing,Jim,Stafford,"Assistant Professor"
+"No Affiliation",Writing,Joan,Marcus,"Assistant Professor"
+"No Affiliation",Writing,Kate,Doyle,Lecturer
+"No Affiliation",Writing,Katharyn,Machan,Professor
+"No Affiliation",Writing,Katie,Marks,"Assistant Professor"
+"No Affiliation",Writing,Linda,Godfrey,"Assistant Professor"
+"No Affiliation",Writing,Louise,Cannon,Lecturer
+"No Affiliation",Writing,Marian,MacCurdy,"Retired Professor"
+"No Affiliation",Writing,Marlene,Kobre,"Retired Assistant Professor"
+"No Affiliation",Writing,Mary,O'Connor,"Retired Assistant Professor"
+"No Affiliation",Writing,Mary,Rishel,"Emerita Professor"
+"No Affiliation",Writing,Mary,Silva,"Associate Professor"
+"No Affiliation",Writing,Matthew,McConnell,Lecturer
+"No Affiliation",Writing,Megan,Graham,"Assistant Professor"
+"No Affiliation",Writing,Meisha,Lohmann,Lecturer
+"No Affiliation",Writing,Miriam,Brody,"Retired Associate Professor"
+"No Affiliation",Writing,Nancy,Holzner,Lecturer
+"No Affiliation",Writing,Nick,Kowalczyk,"Associate Professor"
+"No Affiliation",Writing,Rachel,Kaufman,Lecturer
+"No Affiliation",Writing,Raul,Palma,"No Affiliation"
+"No Affiliation",Writing,Rhian,Ellis,Lecturer
+"No Affiliation",Writing,Ron,Denson,"Assistant Professor"
+"No Affiliation",Writing,Rosalie,Purvis,Lecturer
+"No Affiliation",Writing,Sandy,Dutkowsky,"Assistant Professor"
+"No Affiliation",Writing,Susan,Delaney,"Associate Professor"
+"No Affiliation",Writing,Thomas,Girshin,"Assistant Professor"
+"No Affiliation",Writing,Tom,Kerr,"Associate Professor"
+"No Affiliation",Writing,Tyrell,Stewart,"Assistant Professor"
+"No Affiliation",Writing,Valer,Popa,Lecturer
+"No Affiliation",Writing,Vinita,Prabhakar,Lecturer
+"No Affiliation","Writing for Film, Television, and Emerging Media",Elisabeth,Nonas,"Associate Professor"
+"No Affiliation","Writing for Film, Television, and Emerging Media",Jack,Bryant,"Assistant Professor"
+"No Affiliation","Writing for Film, Television, and Emerging Media",Julie,Blumberg,"Assistant Professor"
+"No Affiliation","Writing for Film, Television, and Emerging Media",Steven,Ginsberg,"Pendleton Endowed Chair and Associate Professor Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",Ben,Crane,"Associate Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",Changhee,Chun,"Associate Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",Gossa,Tsegaye,"Assistant Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",James,Rada,"Associate Professor and Chair"
+"Roy H. Park School of Communications","Documentary Studies and Production",Janice,Levy,Professor
+"Roy H. Park School of Communications","Documentary Studies and Production",John,Scott,"Associate Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",Mara,Alper,"Retired Associate Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",Marlena,Grzaslewicz,"Pendleton Endowed Chair and Assistant Professor"
+"Roy H. Park School of Communications","Documentary Studies and Production",Patricia,Zimmermann,Professor
+"Roy H. Park School of Communications","Documentary Studies and Production",Peter,Johanns,"Associate Professor and Television-Radio Program Director"
+"Roy H. Park School of Communications","Documentary Studies and Production",Tom,Nicholson,"Associate Professor"
+"Roy H. Park School of Communications",Journalism,Allison,Cooper,Lecturer
+"Roy H. Park School of Communications",Journalism,Anthony,Adornato,"Assistant Professor"
+"Roy H. Park School of Communications",Journalism,Brian,Delaney,Lecturer
+"Roy H. Park School of Communications",Journalism,James,Rada,"Associate Professor and Chair"
+"Roy H. Park School of Communications",Journalism,Matt,Mogekwu,"Associate Professor"
+"Roy H. Park School of Communications",Journalism,Michael,Park,Lecturer
+"Roy H. Park School of Communications",Journalism,Pei,Zheng,"Assistant Professor"
+"Roy H. Park School of Communications",Journalism,Todd,Schack,"Associate Professor"
+"Roy H. Park School of Communications","No Affiliation",Adam,Lee,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Alexandre,Pinto,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Amy,O'Brien,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Amy,Quan,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Andrew,Bergevin,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Angela,Branneman,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Ann,Byrne,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Barbara,Anger,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Bill,Altman,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Brad,Treat,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Brett,Kocher,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Caroline,Ostrander,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Carrie,Tamayo,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Colin,Williams,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Dan,Barrow,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Dana,Tischler,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Edward,Panar,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Gabriel,Condon,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Greg,Smith,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Heather,Sheridan,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Holli,Mast,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jamie,Rombach,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jason,Muenzen,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jennifer,Wilkie,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jessica,Stratton,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jill,Loop,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jim,Murphy,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Jim,Overhiser,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Judith,Levitt,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Katie,Sheehan,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Kenneth,Christianson,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Kerri,Lynch,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Kit,Muma,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Lauren,Cesari,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Lucas,Blalock,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Marcy,Sutherland,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Marty,Alderman,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Michelle,Cole,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Nandadevi,Rodriguez,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Nick,Sagan,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Pamela,Pospisil,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Raza,Ahmad,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Richard,Montgomery,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Robert,Newman,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Roy,Westwater,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Ruth,Barber,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Sam,Brown,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Shehnaz,Haqqani,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Steven,Novakovic,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Sueyoung,Park,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Test,Staff,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Thomas,Seeley,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Tucker,Davis,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Vanessa,Mirabito,"No Affiliation"
+"Roy H. Park School of Communications","No Affiliation",Yoon,Choi,"No Affiliation"
+"Roy H. Park School of Communications","Sports Media",John,Enright,Lecturer
+"Roy H. Park School of Communications","Sports Media",Kyle,Woody,"No Affiliation"
+"Roy H. Park School of Communications","Sports Media",Mead,Loop,"Associate Professor and Documentary Studies Program Coordinator"
+"Roy H. Park School of Communications","Sports Media",Tim,Mirabito,"Assistant Professor"
+"School of Business","No Affiliation",Adam,Lee,"No Affiliation"
+"School of Business","No Affiliation",Alexandre,Pinto,"No Affiliation"
+"School of Business","No Affiliation",Amy,O'Brien,"No Affiliation"
+"School of Business","No Affiliation",Amy,Quan,"No Affiliation"
+"School of Business","No Affiliation",Andrew,Bergevin,"No Affiliation"
+"School of Business","No Affiliation",Angela,Branneman,"No Affiliation"
+"School of Business","No Affiliation",Ann,Byrne,"No Affiliation"
+"School of Business","No Affiliation",Barbara,Anger,"No Affiliation"
+"School of Business","No Affiliation",Bill,Altman,"No Affiliation"
+"School of Business","No Affiliation",Brad,Treat,"No Affiliation"
+"School of Business","No Affiliation",Brett,Kocher,"No Affiliation"
+"School of Business","No Affiliation",Caroline,Ostrander,"No Affiliation"
+"School of Business","No Affiliation",Carrie,Tamayo,"No Affiliation"
+"School of Business","No Affiliation",Colin,Williams,"No Affiliation"
+"School of Business","No Affiliation",Dan,Barrow,"No Affiliation"
+"School of Business","No Affiliation",Dana,Tischler,"No Affiliation"
+"School of Business","No Affiliation",Edward,Panar,"No Affiliation"
+"School of Business","No Affiliation",Gabriel,Condon,"No Affiliation"
+"School of Business","No Affiliation",Greg,Smith,"No Affiliation"
+"School of Business","No Affiliation",Heather,Sheridan,"No Affiliation"
+"School of Business","No Affiliation",Holli,Mast,"No Affiliation"
+"School of Business","No Affiliation",Jamie,Rombach,"No Affiliation"
+"School of Business","No Affiliation",Jason,Muenzen,"No Affiliation"
+"School of Business","No Affiliation",Jennifer,Wilkie,"No Affiliation"
+"School of Business","No Affiliation",Jessica,Stratton,"No Affiliation"
+"School of Business","No Affiliation",Jill,Loop,"No Affiliation"
+"School of Business","No Affiliation",Jim,Murphy,"No Affiliation"
+"School of Business","No Affiliation",Jim,Overhiser,"No Affiliation"
+"School of Business","No Affiliation",Judith,Levitt,"No Affiliation"
+"School of Business","No Affiliation",Katie,Sheehan,"No Affiliation"
+"School of Business","No Affiliation",Kenneth,Christianson,"No Affiliation"
+"School of Business","No Affiliation",Kerri,Lynch,"No Affiliation"
+"School of Business","No Affiliation",Kit,Muma,"No Affiliation"
+"School of Business","No Affiliation",Lauren,Cesari,"No Affiliation"
+"School of Business","No Affiliation",Lucas,Blalock,"No Affiliation"
+"School of Business","No Affiliation",Marcy,Sutherland,"No Affiliation"
+"School of Business","No Affiliation",Marty,Alderman,"No Affiliation"
+"School of Business","No Affiliation",Michelle,Cole,"No Affiliation"
+"School of Business","No Affiliation",Nandadevi,Rodriguez,"No Affiliation"
+"School of Business","No Affiliation",Nick,Sagan,"No Affiliation"
+"School of Business","No Affiliation",Pamela,Pospisil,"No Affiliation"
+"School of Business","No Affiliation",Raza,Ahmad,"No Affiliation"
+"School of Business","No Affiliation",Richard,Montgomery,"No Affiliation"
+"School of Business","No Affiliation",Robert,Newman,"No Affiliation"
+"School of Business","No Affiliation",Roy,Westwater,"No Affiliation"
+"School of Business","No Affiliation",Ruth,Barber,"No Affiliation"
+"School of Business","No Affiliation",Sam,Brown,"No Affiliation"
+"School of Business","No Affiliation",Shehnaz,Haqqani,"No Affiliation"
+"School of Business","No Affiliation",Steven,Novakovic,"No Affiliation"
+"School of Business","No Affiliation",Sueyoung,Park,"No Affiliation"
+"School of Business","No Affiliation",Test,Staff,"No Affiliation"
+"School of Business","No Affiliation",Thomas,Seeley,"No Affiliation"
+"School of Business","No Affiliation",Tucker,Davis,"No Affiliation"
+"School of Business","No Affiliation",Vanessa,Mirabito,"No Affiliation"
+"School of Business","No Affiliation",Yoon,Choi,"No Affiliation"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Betsy,Keller,Professor
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Chris,Hummel,"Clinical Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Courtney,Gray,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Craig,Fisher,"Retired Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Dave,Diggin,"Assistant Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Deborah,King,Professor
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Frank,Micale,"Clinical Associate Professor and Clinic Director"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Gary,Sforzo,Professor
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Greg,Shelley,"Associate Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Jeffrey,Ives,"Professor and Chair Graduate Program"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Jennifer,McKeon,"Assistant Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Justine,Vosloo,"Associate Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Kent,Scriber,"Emeritus Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Michael,Matheny,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Patrick,McKeon,"Associate Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Paul,Geisler,"Associate Professor and Program Director"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Ron,Schassburger,"Retired Assistant Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Rose,Millspaugh,Lecturer
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Sebastian,Harenberg,"Assistant Professor"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Thomas,Swensen,"Professor and Chair"
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Tim,Reynolds,Lecturer
+"School of Health Sciences and Human Performance","Exercise and Sport Sciences",Todd,Lazenby,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Amy,Frith,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Deborah,Wuest,"Professor and Associate Chair"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Hongwei,Guan,"Associate Professor and Director HSHP China Exchange Program"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Laura,Carapella,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Mary,Bentley,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Phoebe,Constantinou,Professor
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Raj,Subramaniam,"Professor and Chair Graduate Program"
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Shewanee,Howard,Lecturer
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Srijana,Bajracharya,Professor
+"School of Health Sciences and Human Performance","Graduate Study in Health Promotion and Physical Education",Stewart,Auyash,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Amie,Germain,"Assistant Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Anandee,Dupre,Lecturer
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Carole,Dennis,Professor
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Diane,Long,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Jennifer,Iglthaler,Lecturer
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Jessica,Taves,"Assistant Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Jill,Leuken,Lecturer
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Julie,Dorsey,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Kimberly,Wilkinson,"Assistant Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Laura,Morse,Lecturer
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Lynn,Gitlow,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Melinda,Cozzolino,"Associate Professor and Chair Graduate Program"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Michelle,Bradshaw,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Occupational Therapy",Rita,Daly,"Clinical Assistant Professor and Fieldwork Coordinator"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Amy,Rominger,"Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Barbara,Johnson,Professor
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Douglas,Cross,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Jana,Waller,"Clinical Assistant Professor, Graduate Chair, Fieldwork Coordinator"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Luanne,Andersson,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Marie,Sanford,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Mary,Pitti,"Clinical Associate Professor,Clinical Director,Graduate Chair"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Richard,Schissel,"Emeritus Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Skott,Jones,"Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Susan,Durnford,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Tina,Caswell,"Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Graduate Study in Speech-Language Pathology and Audiology",Yvonne,Rogalski,"Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Amy,Frith,"Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Andrew,Byrne,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Christina,Moylan,"Assistant Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Deborah,Wuest,"Professor and Associate Chair"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Fenwick,Faulkner,"Retired Assistant Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Gail,Lajoie,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",George,Fiorille,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Harold,Cohen,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Hongwei,Guan,"Associate Professor and Director HSHP China Exchange Program"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",James,Eavenson,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Joanie,Groome,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",John,Burger,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Julia,Lapp,"Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Julie,Boles,"Assistant Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Karen,Edwards,"Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Kari,Stoos,"Assistant Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Kurt,Lichtmann,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Laura,Carapella,"Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Liebe,Swain,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Louis,Munch,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Mary,Bentley,"Associate Professor"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Nikki,Bonanni,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Phoebe,Constantinou,Professor
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Raj,Subramaniam,"Professor and Chair Graduate Program"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Shewanee,Howard,Lecturer
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Srijana,Bajracharya,Professor
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Stewart,Auyash,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Health Promotion and Physical Education",Victor,Torregiano,Lecturer
+"School of Health Sciences and Human Performance","Health Science and Human Perf/Smiddy",Jim,Yaggie,"Professor and Director"
+"School of Health Sciences and Human Performance","Integrative Studies",Alex,Reed,"Associate Professor"
+"School of Health Sciences and Human Performance","Integrative Studies",Christine,Bataille,"Assistant Professor"
+"School of Health Sciences and Human Performance","Integrative Studies",Gary,Wells,"Associate Professor"
+"School of Health Sciences and Human Performance","Integrative Studies",Jerry,Mirskin,Professor
+"School of Health Sciences and Human Performance","Integrative Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Health Sciences and Human Performance","Integrative Studies",Julia,Lapp,"Associate Professor"
+"School of Health Sciences and Human Performance","Integrative Studies",Mary,Erickson,"Associate Professor"
+"School of Health Sciences and Human Performance","Integrative Studies",Mike,Haaf,Professor
+"School of Health Sciences and Human Performance","Integrative Studies",Norman,Johnson,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Health Sciences and Human Performance","Latin American Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Health Sciences and Human Performance","Latin American Studies",Carole,Dennis,Professor
+"School of Health Sciences and Human Performance","Latin American Studies",Enrique,Gonzalez,"Assistant Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Gladys,Varona,Professor
+"School of Health Sciences and Human Performance","Latin American Studies",Hector,Velez,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Jake,Brenner,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Jeff,Claus,"Emeritus Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Jennifer,Jolly,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Latin American Studies",Jessica,Taves,"Assistant Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Jonathan,Ablard,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Julie,Dorsey,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Katherine,Beissner,"Retired Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Lynn,Gitlow,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Michael,Malpass,"Dana Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Pablo,Cohen,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Patricia,Rodriguez,"Associate Professor and Latin American Studies Coordinator"
+"School of Health Sciences and Human Performance","Latin American Studies",Paula,Turkon,"Assistant Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Shaianne,Osterreich,"Associate Professor"
+"School of Health Sciences and Human Performance","Latin American Studies",Stewart,Auyash,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Latin American Studies",Susan,Allen,Professor
+"School of Health Sciences and Human Performance","Latin American Studies",Zillah,Eisenstein,"Emerita Professor"
+"School of Health Sciences and Human Performance","Movement Analysis Lab",Carole,Dennis,Professor
+"School of Health Sciences and Human Performance","Movement Analysis Lab",Deborah,King,Professor
+"School of Health Sciences and Human Performance","Movement Analysis Lab",Laura,Gras,"Associate Professor"
+"School of Health Sciences and Human Performance","Movement Analysis Lab",Patrick,McKeon,"Associate Professor"
+"School of Health Sciences and Human Performance","Movement Analysis Lab",Rumit,Kakar,"Assistant Professor"
+"School of Health Sciences and Human Performance","Movement Analysis Lab",Sharon,Stansfield,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","No Affiliation",Adam,Lee,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Alexandre,Pinto,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Amy,O'Brien,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Amy,Quan,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Andrew,Bergevin,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Angela,Branneman,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Ann,Byrne,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Barbara,Anger,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Bill,Altman,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Brad,Treat,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Brett,Kocher,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Caroline,Ostrander,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Carrie,Tamayo,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Colin,Williams,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Dan,Barrow,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Dana,Tischler,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Edward,Panar,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Gabriel,Condon,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Greg,Smith,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Heather,Sheridan,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Holli,Mast,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jamie,Rombach,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jason,Muenzen,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jennifer,Wilkie,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jessica,Stratton,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jill,Loop,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jim,Murphy,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Jim,Overhiser,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Judith,Levitt,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Katie,Sheehan,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Kenneth,Christianson,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Kerri,Lynch,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Kit,Muma,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Lauren,Cesari,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Lucas,Blalock,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Marcy,Sutherland,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Marty,Alderman,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Michelle,Cole,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Nandadevi,Rodriguez,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Nick,Sagan,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Pamela,Pospisil,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Raza,Ahmad,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Richard,Montgomery,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Robert,Newman,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Roy,Westwater,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Ruth,Barber,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Sam,Brown,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Shehnaz,Haqqani,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Steven,Novakovic,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Sueyoung,Park,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Test,Staff,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Thomas,Seeley,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Tucker,Davis,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Vanessa,Mirabito,"No Affiliation"
+"School of Health Sciences and Human Performance","No Affiliation",Yoon,Choi,"No Affiliation"
+"School of Health Sciences and Human Performance","Occupational Therapy",Alyson,Pasquale,"Assistant Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Amie,Germain,"Assistant Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Anandee,Dupre,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Anna,Grasso,"Assistant Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Barbara,Hansen,"Retired Clinical Assistant Professor and Fieldwork Coordinator"
+"School of Health Sciences and Human Performance","Occupational Therapy",Carole,Dennis,Professor
+"School of Health Sciences and Human Performance","Occupational Therapy",Catherine,Gordon,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Diane,Long,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Occupational Therapy",Jenna,Heffron,"Assistant Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Jennifer,Iglthaler,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Jessica,Taves,"Assistant Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Jill,Leuken,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Jim,Wagner,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Judith,Gonyea,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Julie,Dorsey,"Associate Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Kimberly,Wilkinson,"Assistant Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Laura,Morse,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Lynn,Gitlow,"Associate Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Marilyn,Kane,"Retired Adjunct Clinical Assistant Professor and Fieldwork Coordinator"
+"School of Health Sciences and Human Performance","Occupational Therapy",Melinda,Cozzolino,"Associate Professor and Chair Graduate Program"
+"School of Health Sciences and Human Performance","Occupational Therapy",Michelle,Bradshaw,"Associate Professor"
+"School of Health Sciences and Human Performance","Occupational Therapy",Nicole,Cortes,Lecturer
+"School of Health Sciences and Human Performance","Occupational Therapy",Rita,Daly,"Clinical Assistant Professor and Fieldwork Coordinator"
+"School of Health Sciences and Human Performance","Occupational Therapy",Shannon,Scott,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Alison,Helmetsie,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Allison,Toole,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Andrew,Robinson,"Retired Professor, Chair, and Graduate Chair"
+"School of Health Sciences and Human Performance","Physical Therapy",Anne,Schneider,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Barbara,Belyea,"Clinical Professor and Associate Chair"
+"School of Health Sciences and Human Performance","Physical Therapy",Charles,Ciccone,Professor
+"School of Health Sciences and Human Performance","Physical Therapy",Chris,McNamara,"Clinical Associate Professor and Clinic Director"
+"School of Health Sciences and Human Performance","Physical Therapy",Ethan,Lewis,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Genevieve,Smith,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Hilary,Greenberger,Professor
+"School of Health Sciences and Human Performance","Physical Therapy",Jason,Cherry,"Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Jill,Mayer,"Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Jim,Yaggie,"Professor and Director"
+"School of Health Sciences and Human Performance","Physical Therapy",John,Winslow,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Katherine,Beissner,"Retired Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Kathy,Schlough,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Kayleigh,Plumeau,"Assistant Professor and Associate Director Clinical Education"
+"School of Health Sciences and Human Performance","Physical Therapy",Kellie,Hummel,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Kristin,Girshin,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Laura,Gras,"Associate Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Margaret,Vence,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Megan,Hotchkiss,"Assistant Professor and Director Clinical Education"
+"School of Health Sciences and Human Performance","Physical Therapy",Michael,Pagliarulo,"Emeritus Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Mike,Costello,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Nicholas,Quarrier,"Retired Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Rob,Kaplan,Lecturer
+"School of Health Sciences and Human Performance","Physical Therapy",Rumit,Kakar,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Ryan,Marker,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Sarah,Fishel,"Assistant Professor"
+"School of Health Sciences and Human Performance","Physical Therapy",Stephen,Lahr,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Physical Therapy",Winifred,Mauser,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Physical Therapy Graduate Portion",Andrew,Robinson,"Retired Professor, Chair, and Graduate Chair"
+"School of Health Sciences and Human Performance","Physical Therapy Graduate Portion",Stephen,Lahr,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Premed Option",Andrew,Smith,Professor
+"School of Health Sciences and Human Performance","Premed Option",Christina,Moylan,"Assistant Professor"
+"School of Health Sciences and Human Performance","Premed Option",Hilary,Greenberger,Professor
+"School of Health Sciences and Human Performance","Premed Option",Ian,Woods,"Associate Professor"
+"School of Health Sciences and Human Performance","Premed Option",Jean,Hardwick,Professor
+"School of Health Sciences and Human Performance","Premed Option",Julia,Lapp,"Associate Professor"
+"School of Health Sciences and Human Performance","Premed Option",Mike,Haaf,Professor
+"School of Health Sciences and Human Performance","Premed Option",Scott,Ulrich,"Associate Professor"
+"School of Health Sciences and Human Performance","Premed Option",Thomas,Swensen,"Professor and Chair"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Barbara,DeWall,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Catherine,Gooch,"Adjunct Clinical Assistant Professor and Program Director"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Christopher,Klinger,"Assistant Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Elizabeth,Griffin,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Erika,Hartman,Lecturer
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Janice,Monroe,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Jennifer,Miller,Lecturer
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Joanie,Groome,Lecturer
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Judith,Kennison,"Retired Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Linda,Heyne,Professor
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Matt,Vosler,"Assistant Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Maureen,Coats,Lecturer
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Patrick,Lewis,"Assistant Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Rob,Cook,Lecturer
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Ronald,Simpson,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Sarah,Rich,"Emerita Professor"
+"School of Health Sciences and Human Performance","Recreation and Leisure Studies",Tom,Knipe,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Amy,Rominger,"Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Barbara,Johnson,Professor
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Carly,Hosbach,"Assistant Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Carol,Crichley,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Charles,Snyder,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Christina,Steinorth,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Christine,Cecconi,"Retired Clinical Associate Professor and Clinical Program Director"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",David,Hajjar,"Assistant Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Douglas,Cross,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",E,Testut,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",George,Son,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",James,Meyers,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Jana,Waller,"Clinical Assistant Professor, Graduate Chair, Fieldwork Coordinator"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Jennifer,Giroux,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Jennifer,Sharma,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",John,Stephens,"Retired Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Joseph,Zanfordino,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Kalil,Telage,"Retired Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Kip,Opperman,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Lisa,Witchey,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Liz,Miller,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Luanne,Andersson,"Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Marie,Sanford,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Mary,Pitti,"Clinical Associate Professor,Clinical Director,Graduate Chair"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Michele,Westfall,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Nicole,Schiller,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Rhoda,Janis,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Richard,Schissel,"Emeritus Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Samantha,Koncak,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Sherry,Golden,Lecturer
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Skott,Jones,"Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Susan,Durnford,"Clinical Associate Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Tina,Caswell,"Clinical Assistant Professor"
+"School of Health Sciences and Human Performance","Speech-Language Pathology and Audiology",Yvonne,Rogalski,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Amy,Frith,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Angela,Rudert,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Ashley,Hall,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Bruce,Henderson,Professor
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Carla,Golden,Professor
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Claire,Gleitman,Professor
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Cornell,Woodson,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Deborah,Rifkin,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Denise,Nuttall,"Associate Professor and Chair"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Derek,Adams,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Diane,McPherson,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Elizabeth,Bishop,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Ellie,Fulmer,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Gladys,Varona,Professor
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Harriet,Malinowitz,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Jennifer,Germann,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Jennifer,Spitzer,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Jonathan,Ablard,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Joslyn,Brenton,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Judith,Barker,"Retired Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Karin,Breuer,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Katharine,Kittredge,Professor
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Katharyn,Machan,Professor
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Kayla,Wheeler,
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Laurie,Arliss,"Professor and Chair"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Louise,Mygatt,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Maria,DiFrancesco,"Professor and Chair"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Mary,Bentley,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Mat,Fournier,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Natasha,Bissonauth,
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Nia,Nunn,"Assistant Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Rachel,Gunderson,
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Rachel,Kaufman,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Shaianne,Osterreich,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Shewanee,Howard,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Sue,Sue,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Tahlia,Fischer,Lecturer
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Vivian,Conger,"Associate Professor"
+"School of Health Sciences and Human Performance","Women's and Gender Studies",Zillah,Eisenstein,"Emerita Professor"
+"School of Humanities and Sciences",Anthropology,Aja,Lans,Lecturer
+"School of Humanities and Sciences",Anthropology,Barbara,Johnson,"Emerita Professor"
+"School of Humanities and Sciences",Anthropology,David,Turkon,"Associate Professor"
+"School of Humanities and Sciences",Anthropology,Denise,Nuttall,"Associate Professor and Chair"
+"School of Humanities and Sciences",Anthropology,Garry,Thomas,"Emeritus Professor"
+"School of Humanities and Sciences",Anthropology,Jack,Rossen,"Retired Professor"
+"School of Humanities and Sciences",Anthropology,Jennifer,Muller,"Associate Professor and Assistant Chair"
+"School of Humanities and Sciences",Anthropology,Joel,Savishinsky,"Emeritus Professor"
+"School of Humanities and Sciences",Anthropology,Lisa,Corewyn,"Assistant Professor"
+"School of Humanities and Sciences",Anthropology,Michael,Malpass,"Dana Professor"
+"School of Humanities and Sciences",Anthropology,Michael,Taylor,"Assistant Professor"
+"School of Humanities and Sciences",Anthropology,Scott,Stull,"Assistant Professor"
+"School of Humanities and Sciences",Anthropology,Sue,Sue,"Associate Professor"
+"School of Humanities and Sciences",Anthropology,Thomas,Garrison,"Assistant Professor"
+"School of Humanities and Sciences",Anthropology,Victoria,Brown,Lecturer
+"School of Humanities and Sciences",Art,Adam,Boggs,Lecturer
+"School of Humanities and Sciences",Art,Bill,Hastings,"Assistant Professor"
+"School of Humanities and Sciences",Art,Brody,Burroughs,Lecturer
+"School of Humanities and Sciences",Art,Bruce,North,"Retired Associate Professor"
+"School of Humanities and Sciences",Art,Carla,Stetson,"Associate Professor and Chair"
+"School of Humanities and Sciences",Art,Carrie,Smith,"Assistant Professor"
+"School of Humanities and Sciences",Art,Chris,Oliver,Lecturer
+"School of Humanities and Sciences",Art,Dara,Engler,"Associate Professor"
+"School of Humanities and Sciences",Art,Harry,McCue,"Emeritus Professor"
+"School of Humanities and Sciences",Art,Joy,Adams,"Emerita Professor"
+"School of Humanities and Sciences",Art,Linda,Price,Lecturer
+"School of Humanities and Sciences",Art,Maria,McMahon,Lecturer
+"School of Humanities and Sciences",Art,Pamela,Drix,Lecturer
+"School of Humanities and Sciences",Art,Pat,Hunsinger,Lecturer
+"School of Humanities and Sciences",Art,Patti,Capaldi,"Assistant Professor"
+"School of Humanities and Sciences",Art,Raymond,Ghirardo,"Retired Professor"
+"School of Humanities and Sciences",Art,Salvatore,Grippi,"Retired Professor"
+"School of Humanities and Sciences",Art,Sarah,Sutton,"Assistant Professor"
+"School of Humanities and Sciences",Art,Susan,Weisend,Professor
+"School of Humanities and Sciences","Art History",Carolyn,Straughan,"Retired Assistant Professor"
+"School of Humanities and Sciences","Art History",David,Salomon,"Assistant Professor"
+"School of Humanities and Sciences","Art History",Edith,Fikes,Lecturer
+"School of Humanities and Sciences","Art History",Gary,Wells,"Associate Professor"
+"School of Humanities and Sciences","Art History",Jennifer,Germann,"Associate Professor"
+"School of Humanities and Sciences","Art History",Jennifer,Jolly,"Associate Professor and Chair"
+"School of Humanities and Sciences","Art History",Jennifer,Lyons,"Assistant Professor"
+"School of Humanities and Sciences","Art History",Lauren,O'Connell,Professor
+"School of Humanities and Sciences","Art History",Nancy,Brcak,Professor
+"School of Humanities and Sciences","Art History",Nancy,Ramage,"Emerita Professor"
+"School of Humanities and Sciences","Art History",Paul,Wilson,"Associate Professor"
+"School of Humanities and Sciences","Art History",Risham,Majeed,"Assistant Professor"
+"School of Humanities and Sciences","Art History",Stephen,Clancy,"Emeritus Professor"
+"School of Humanities and Sciences",Biochemistry,Akiko,Fillinger,"Associate Professor"
+"School of Humanities and Sciences",Biochemistry,Andrew,Smith,Professor
+"School of Humanities and Sciences",Biochemistry,Anna,Larsen,"Associate Professor and Assistant Chair"
+"School of Humanities and Sciences",Biochemistry,David,Gondek,"Associate Professor"
+"School of Humanities and Sciences",Biochemistry,DJ,Robinson,"Assistant Professor"
+"School of Humanities and Sciences",Biochemistry,Edward,Cluett,"Associate Professor"
+"School of Humanities and Sciences",Biochemistry,Ian,Woods,"Associate Professor"
+"School of Humanities and Sciences",Biochemistry,Jamie,Ellis,"Assistant Professor"
+"School of Humanities and Sciences",Biochemistry,Janet,Hunting,"Associate Professor and Chair"
+"School of Humanities and Sciences",Biochemistry,Jean,Hardwick,Professor
+"School of Humanities and Sciences",Biochemistry,Maki,Inada,"Associate Professor"
+"School of Humanities and Sciences",Biochemistry,Scott,Ulrich,"Associate Professor"
+"School of Humanities and Sciences",Biochemistry,Vincent,DeTuri,"Associate Professor and Director of the Integrative Core Curriculum"
+"School of Humanities and Sciences",Biology,Andrew,Smith,Professor
+"School of Humanities and Sciences",Biology,Brooks,Miner,"Assistant Professor"
+"School of Humanities and Sciences",Biology,Bruce,Smith,"Emeritus Professor"
+"School of Humanities and Sciences",Biology,Christina,Frare,"Assistant Professor"
+"School of Humanities and Sciences",Biology,David,Gondek,"Associate Professor"
+"School of Humanities and Sciences",Biology,Edward,Cluett,"Associate Professor"
+"School of Humanities and Sciences",Biology,Heidi,Hopkins,"Assistant Professor"
+"School of Humanities and Sciences",Biology,Ian,Woods,"Associate Professor"
+"School of Humanities and Sciences",Biology,Janet,Huie,Lecturer
+"School of Humanities and Sciences",Biology,Jean,Hardwick,Professor
+"School of Humanities and Sciences",Biology,John,Bernard,"Emeritus Professor"
+"School of Humanities and Sciences",Biology,John,Confer,"Retired Associate Professor and Coordinator"
+"School of Humanities and Sciences",Biology,Josh,Moyer,Lecturer
+"School of Humanities and Sciences",Biology,Leann,Kanda,"Associate Professor and Chair"
+"School of Humanities and Sciences",Biology,Lucille,Schmieder,"Emerita Professor"
+"School of Humanities and Sciences",Biology,Maki,Inada,"Associate Professor"
+"School of Humanities and Sciences",Biology,Malvika,Talwar,Lecturer
+"School of Humanities and Sciences",Biology,Mark,Baustian,Lecturer
+"School of Humanities and Sciences",Biology,Maya,Patel,"Assistant Professor"
+"School of Humanities and Sciences",Biology,Michael,Kobre,Lecturer
+"School of Humanities and Sciences",Biology,Mildred,Brammer,"Emerita Professor"
+"School of Humanities and Sciences",Biology,Nancy,Jacobson,Lecturer
+"School of Humanities and Sciences",Biology,Peter,Melcher,Professor
+"School of Humanities and Sciences",Biology,Rebecca,Brady,"Assistant Professor"
+"School of Humanities and Sciences",Biology,Richard,Wodzinski,"Retired Associate Professor"
+"School of Humanities and Sciences",Biology,Robert,Ross,Lecturer
+"School of Humanities and Sciences",Biology,Steven,Thompson,"Emeritus Professor"
+"School of Humanities and Sciences",Biology,Suellen,Dragon,Lecturer
+"School of Humanities and Sciences",Biology,Susan,Witherup,Professor
+"School of Humanities and Sciences",Biology,Te,Te,"Assistant Professor"
+"School of Humanities and Sciences",Biology,Vicki,Cameron,"Emerita Professor"
+"School of Humanities and Sciences",Chemistry,Akiko,Fillinger,"Associate Professor"
+"School of Humanities and Sciences",Chemistry,Anatol,Eberhard,"Retired Professor"
+"School of Humanities and Sciences",Chemistry,Andrew,Torelli,"Assistant Professor"
+"School of Humanities and Sciences",Chemistry,Anna,Larsen,"Associate Professor and Assistant Chair"
+"School of Humanities and Sciences",Chemistry,Carmella,Calabrese,Lecturer
+"School of Humanities and Sciences",Chemistry,Celeste,Ptak,Lecturer
+"School of Humanities and Sciences",Chemistry,David,Richens,"Assistant Professor"
+"School of Humanities and Sciences",Chemistry,DJ,Robinson,"Assistant Professor"
+"School of Humanities and Sciences",Chemistry,Elaine,Kuo,"Assistant Professor"
+"School of Humanities and Sciences",Chemistry,Frank,Darrow,"Retired Associate Professor"
+"School of Humanities and Sciences",Chemistry,Glenn,Vogel,"Emeritus Professor"
+"School of Humanities and Sciences",Chemistry,Heinz,Koch,"Emeritus Professor"
+"School of Humanities and Sciences",Chemistry,Jamie,Ellis,"Assistant Professor"
+"School of Humanities and Sciences",Chemistry,Janet,Hunting,"Associate Professor and Chair"
+"School of Humanities and Sciences",Chemistry,Judith,Koch,"Retired Associate Professor"
+"School of Humanities and Sciences",Chemistry,Kristina,Hugar,Lecturer
+"School of Humanities and Sciences",Chemistry,Mary,Wilcox,"Retired Assistant Professor"
+"School of Humanities and Sciences",Chemistry,Mike,Haaf,Professor
+"School of Humanities and Sciences",Chemistry,Robert,Anderson,"Retired Associate Professor"
+"School of Humanities and Sciences",Chemistry,Scott,Ulrich,"Associate Professor"
+"School of Humanities and Sciences",Chemistry,Steven,Russo,"Assistant Professor"
+"School of Humanities and Sciences",Chemistry,Vincent,DeTuri,"Associate Professor and Director of the Integrative Core Curriculum"
+"School of Humanities and Sciences",Chemistry,William,Bergmark,"Emeritus Professor"
+"School of Humanities and Sciences","Classical Studies",Christopher,Matusiak,"Associate Professor"
+"School of Humanities and Sciences","Classical Studies",Dan,Breen,"Associate Professor and Chair"
+"School of Humanities and Sciences","Classical Studies",David,Flanagan,"Assistant Professor"
+"School of Humanities and Sciences","Classical Studies",James,Swafford,"Associate Professor"
+"School of Humanities and Sciences","Classical Studies",Jennifer,Germann,"Associate Professor"
+"School of Humanities and Sciences","Classical Studies",Julia,Cozzarelli,Professor
+"School of Humanities and Sciences","Classical Studies",Matthew,Klemm,"Associate Professor"
+"School of Humanities and Sciences","Classical Studies",Michael,Twomey,"Retired Dana Professor"
+"School of Humanities and Sciences","Classical Studies",Robert,Sullivan,"Associate Professor"
+"School of Humanities and Sciences","Classical Studies",Robert,Ziomkowski,Lecturer
+"School of Humanities and Sciences","Classical Studies",Stephen,Clancy,"Emeritus Professor"
+"School of Humanities and Sciences","Communication Studies",Angela,Rulffes,"Assistant Professor"
+"School of Humanities and Sciences","Communication Studies",Ashley,Hall,"Assistant Professor"
+"School of Humanities and Sciences","Communication Studies",Bruce,Henderson,Professor
+"School of Humanities and Sciences","Communication Studies",Christopher,House,"Assistant Professor"
+"School of Humanities and Sciences","Communication Studies",Colleen,Budzinski,Lecturer
+"School of Humanities and Sciences","Communication Studies",David,Smith,Lecturer
+"School of Humanities and Sciences","Communication Studies",Donathan,Brown,"Associate Professor and Culture & Communication Major Coordinator"
+"School of Humanities and Sciences","Communication Studies",E.,Thompson,Lecturer
+"School of Humanities and Sciences","Communication Studies",Franklin,Sharp,"Retired Associate Professor"
+"School of Humanities and Sciences","Communication Studies",Heather,Brecht,Lecturer
+"School of Humanities and Sciences","Communication Studies",Jodi,Cohen,"Emerita Professor"
+"School of Humanities and Sciences","Communication Studies",John,Gunning,"Retired Associate Professor"
+"School of Humanities and Sciences","Communication Studies",Laurie,Arliss,"Professor and Chair"
+"School of Humanities and Sciences","Communication Studies",Michael,Whelan,"Retired Assistant Professor"
+"School of Humanities and Sciences","Communication Studies",Regina,Carpenter,Lecturer
+"School of Humanities and Sciences","Communication Studies",Robert,Sullivan,"Associate Professor"
+"School of Humanities and Sciences","Communication Studies",Sarah,Trenholm,"Emerita Professor"
+"School of Humanities and Sciences","Communication Studies",Scott,Thomson,"Assistant Professor"
+"School of Humanities and Sciences","Communication Studies",Stephen,Mosher,Professor
+"School of Humanities and Sciences","Computer Science",Ali,Erkan,"Associate Professor"
+"School of Humanities and Sciences","Computer Science",Carl,Penziul,Lecturer
+"School of Humanities and Sciences","Computer Science",Doug,Turnbull,"Associate Professor"
+"School of Humanities and Sciences","Computer Science",John,Barr,Professor
+"School of Humanities and Sciences","Computer Science",Patricia,Woodworth,"Retired Associate Professor"
+"School of Humanities and Sciences","Computer Science",Paul,Dickson,"Assistant Professor"
+"School of Humanities and Sciences","Computer Science",Sharon,Stansfield,"Associate Professor and Chair"
+"School of Humanities and Sciences","Computer Science",Toby,Dragon,"Assistant Professor"
+"School of Humanities and Sciences","Computer Science",Tom,Clavel,Lecturer
+"School of Humanities and Sciences","Computer Science",Wanda,Dann,"Retired Associate Professor"
+"School of Humanities and Sciences","Culture and Communication",Christopher,House,"Assistant Professor"
+"School of Humanities and Sciences","Culture and Communication",Cyndy,Scheibe,Professor
+"School of Humanities and Sciences","Culture and Communication",Donathan,Brown,"Associate Professor and Culture & Communication Major Coordinator"
+"School of Humanities and Sciences","Culture and Communication",Robert,Sullivan,"Associate Professor"
+"School of Humanities and Sciences",Economics,Albert,Alexander,Lecturer
+"School of Humanities and Sciences",Economics,Bogdan,Mieczkowski,"Retired Professor"
+"School of Humanities and Sciences",Economics,Darius,Conger,"Retired Assistant Professor"
+"School of Humanities and Sciences",Economics,Elia,Kacapyr,Professor
+"School of Humanities and Sciences",Economics,Elizabeth,Kaletski,"Assistant Professor"
+"School of Humanities and Sciences",Economics,Jennifer,Tennant,"Associate Professor"
+"School of Humanities and Sciences",Economics,Melissa,Bauco,Lecturer
+"School of Humanities and Sciences",Economics,Minjie,Huang,Lecturer
+"School of Humanities and Sciences",Economics,Roger,Hinderliter,"Emeritus Professor"
+"School of Humanities and Sciences",Economics,Shaianne,Osterreich,"Associate Professor"
+"School of Humanities and Sciences",Economics,William,Kolberg,"Associate Professor"
+"School of Humanities and Sciences",Education,Carla,Stetson,"Associate Professor and Chair"
+"School of Humanities and Sciences",Education,Christine,Hafer,"Assistant Professor"
+"School of Humanities and Sciences",Education,Cristina,Gomez,"Associate Professor"
+"School of Humanities and Sciences",Education,Jeane,Copenhaver,"Associate Professor and Chair"
+"School of Humanities and Sciences",Education,Kacey,Wochna,Lecturer
+"School of Humanities and Sciences",Education,Linda,Hanrahan,"Retired Associate Professor"
+"School of Humanities and Sciences",Education,Patricia,Tempesta,"Retired Assistant Professor"
+"School of Humanities and Sciences",Education,Peter,Martin,"Associate Professor"
+"School of Humanities and Sciences",Education,Teresa,Michel,"No Affiliation"
+"School of Humanities and Sciences",Education,Terrance,Burgess,Lecturer
+"School of Humanities and Sciences",Education,Zenon,Wasyliw,Professor
+"School of Humanities and Sciences","Emerging Media Degree",Nathan,Prestopnik,"Assistant Professor"
+"School of Humanities and Sciences","Emerging Media Degree",Sharon,Stansfield,"Associate Professor and Chair"
+"School of Humanities and Sciences",English,Charles,Grace,"Emeritus Professor"
+"School of Humanities and Sciences",English,Chris,Holmes,"Associate Professor"
+"School of Humanities and Sciences",English,Christine,Kitano,"Assistant Professor"
+"School of Humanities and Sciences",English,Christopher,Matusiak,"Associate Professor"
+"School of Humanities and Sciences",English,Claire,Gleitman,Professor
+"School of Humanities and Sciences",English,Dan,Breen,"Associate Professor and Chair"
+"School of Humanities and Sciences",English,David,Kramer,"Assistant Professor"
+"School of Humanities and Sciences",English,Derek,Adams,"Assistant Professor"
+"School of Humanities and Sciences",English,Dyani,Taff,Lecturer
+"School of Humanities and Sciences",English,Elizabeth,Bleicher,"Associate Professor and Exploratory Program Director"
+"School of Humanities and Sciences",English,Fred,Madden,"Emeritus Professor"
+"School of Humanities and Sciences",English,Hugh,Egan,Professor
+"School of Humanities and Sciences",English,James,Swafford,"Associate Professor"
+"School of Humanities and Sciences",English,Jane,Vogel,"Emerita Professor"
+"School of Humanities and Sciences",English,Jean,Sutherland,Lecturer
+"School of Humanities and Sciences",English,Jennifer,Spitzer,"Assistant Professor"
+"School of Humanities and Sciences",English,Julie,Fromer,Lecturer
+"School of Humanities and Sciences",English,Katharine,Kittredge,Professor
+"School of Humanities and Sciences",English,Kevin,Murphy,Professor
+"School of Humanities and Sciences",English,Michael,Twomey,"Retired Dana Professor"
+"School of Humanities and Sciences",English,Paul,Hansom,"Assistant Professor"
+"School of Humanities and Sciences",English,Steven,Ellis,Lecturer
+"School of Humanities and Sciences","Environmental Studies and Sciences",Anne,Stork,"Assistant Professor"
+"School of Humanities and Sciences","Environmental Studies and Sciences",Christopher,Sinton,"Associate Professor"
+"School of Humanities and Sciences","Environmental Studies and Sciences",Fae,Dremock,"Assistant Professor"
+"School of Humanities and Sciences","Environmental Studies and Sciences",Jason,Hamilton,"Professor and Chair"
+"School of Humanities and Sciences","Environmental Studies and Sciences",Michael,Smith,"Associate Professor"
+"School of Humanities and Sciences","Environmental Studies and Sciences",Sandra,Steingraber,"No Affiliation"
+"School of Humanities and Sciences","Graduate Study in Education",Aaron,Weinberg,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences","Graduate Study in Education",Carla,Stetson,"Associate Professor and Chair"
+"School of Humanities and Sciences","Graduate Study in Education",Chris,Holmes,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Cristina,Gomez,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",David,Brown,"Professor and Chair"
+"School of Humanities and Sciences","Graduate Study in Education",Derek,Adams,"Assistant Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Elizabeth,Bleicher,"Associate Professor and Exploratory Program Director"
+"School of Humanities and Sciences","Graduate Study in Education",Felice,Russell,"Assistant Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Heather,Hill,"Assistant Professor"
+"School of Humanities and Sciences","Graduate Study in Education",James,Swafford,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Jason,Freitag,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Jeff,Perry,Lecturer
+"School of Humanities and Sciences","Graduate Study in Education",Jonathan,Ablard,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Karin,Breuer,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Matthew,Price,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Matthew,Sullivan,Professor
+"School of Humanities and Sciences","Graduate Study in Education",Michael,Smith,"Associate Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Michael,Trotti,Professor
+"School of Humanities and Sciences","Graduate Study in Education",Michael,Twomey,"Retired Dana Professor"
+"School of Humanities and Sciences","Graduate Study in Education",Mike,Haaf,Professor
+"School of Humanities and Sciences","Graduate Study in Education",Thomas,Pfaff,Professor
+"School of Humanities and Sciences","Graduate Study in Education",Zenon,Wasyliw,Professor
+"School of Humanities and Sciences","Graduate Study in Image Text",Catherine,Taylor,"Associate Professor"
+"School of Humanities and Sciences",History,Andrew,Ezergailis,"Emeritus Professor"
+"School of Humanities and Sciences",History,David,McKeith,"Emeritus Professor"
+"School of Humanities and Sciences",History,Ethan,Bennett,Lecturer
+"School of Humanities and Sciences",History,Jan,Saltzgaber,"Emeritus Professor"
+"School of Humanities and Sciences",History,Jason,Freitag,"Associate Professor"
+"School of Humanities and Sciences",History,John,Pavia,"Emeritus Professor"
+"School of Humanities and Sciences",History,Jonathan,Ablard,"Associate Professor"
+"School of Humanities and Sciences",History,Joseph,Tempesta,"Emeritus Professor"
+"School of Humanities and Sciences",History,Jules,Benjamin,"Emeritus Professor"
+"School of Humanities and Sciences",History,Karin,Breuer,"Associate Professor"
+"School of Humanities and Sciences",History,Kim,Todt,Lecturer
+"School of Humanities and Sciences",History,Matthew,Klemm,"Associate Professor"
+"School of Humanities and Sciences",History,Michael,Smith,"Associate Professor"
+"School of Humanities and Sciences",History,Michael,Trotti,Professor
+"School of Humanities and Sciences",History,Paul,McBride,"Emeritus Professor"
+"School of Humanities and Sciences",History,Pearl,Ponce,"Associate Professor and Chair"
+"School of Humanities and Sciences",History,Richard,Brown,"Emeritus Professor"
+"School of Humanities and Sciences",History,Siyin,Zhao,Lecturer
+"School of Humanities and Sciences",History,Vivian,Conger,"Associate Professor"
+"School of Humanities and Sciences",History,Zenon,Wasyliw,Professor
+"School of Humanities and Sciences","Honors Program",Alexander,Moon,"Assistant Professor"
+"School of Humanities and Sciences","Honors Program",Bruce,Henderson,Professor
+"School of Humanities and Sciences","Honors Program",Carla,Golden,Professor
+"School of Humanities and Sciences","Honors Program",Claire,Gleitman,Professor
+"School of Humanities and Sciences","Honors Program",Cory,Brown,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",David,Flanagan,"Assistant Professor"
+"School of Humanities and Sciences","Honors Program",Diane,McPherson,"Retired Associate Professor"
+"School of Humanities and Sciences","Honors Program",Donald,Beachler,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Elia,Kacapyr,Professor
+"School of Humanities and Sciences","Honors Program",Elizabeth,Bleicher,"Associate Professor and Exploratory Program Director"
+"School of Humanities and Sciences","Honors Program",Frederik,Kaufman,Professor
+"School of Humanities and Sciences","Honors Program",Gary,Wells,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Hugh,Egan,Professor
+"School of Humanities and Sciences","Honors Program",Jack,Hrkach,"Emeritus Professor"
+"School of Humanities and Sciences","Honors Program",James,Conklin,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",James,Rothenberg,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",James,Swafford,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Jason,Freitag,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Jean,Hardwick,Professor
+"School of Humanities and Sciences","Honors Program",John,Maceli,"Emeritus Professor"
+"School of Humanities and Sciences","Honors Program",Jonathan,Ablard,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Kevin,Murphy,Professor
+"School of Humanities and Sciences","Honors Program",Lauren,O'Connell,Professor
+"School of Humanities and Sciences","Honors Program",Marlene,Kobre,"Retired Assistant Professor"
+"School of Humanities and Sciences","Honors Program",Mary,O'Connor,"Retired Assistant Professor"
+"School of Humanities and Sciences","Honors Program",Michael,Richardson,Professor
+"School of Humanities and Sciences","Honors Program",Michael,Rogers,Professor
+"School of Humanities and Sciences","Honors Program",Michael,Smith,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Michael,Twomey,"Retired Dana Professor"
+"School of Humanities and Sciences","Honors Program",Naeem,Inayatullah,Professor
+"School of Humanities and Sciences","Honors Program",Nancy,Rader,Professor
+"School of Humanities and Sciences","Honors Program",Osman,Yurekli,Professor
+"School of Humanities and Sciences","Honors Program",Peter,Melcher,Professor
+"School of Humanities and Sciences","Honors Program",Ron,Denson,"Assistant Professor"
+"School of Humanities and Sciences","Honors Program",Shaianne,Osterreich,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Stanley,Seltzer,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Stephen,Clancy,"Emeritus Professor"
+"School of Humanities and Sciences","Honors Program",Thomas,Pfaff,Professor
+"School of Humanities and Sciences","Honors Program",Thomas,Shevory,Professor
+"School of Humanities and Sciences","Honors Program",Vivian,Conger,"Associate Professor"
+"School of Humanities and Sciences","Honors Program",Zillah,Eisenstein,"Emerita Professor"
+"School of Humanities and Sciences","Integrative Studies",Alex,Reed,"Associate Professor"
+"School of Humanities and Sciences","Integrative Studies",Christine,Bataille,"Assistant Professor"
+"School of Humanities and Sciences","Integrative Studies",Gary,Wells,"Associate Professor"
+"School of Humanities and Sciences","Integrative Studies",Jerry,Mirskin,Professor
+"School of Humanities and Sciences","Integrative Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Humanities and Sciences","Integrative Studies",Julia,Lapp,"Associate Professor"
+"School of Humanities and Sciences","Integrative Studies",Mary,Erickson,"Associate Professor"
+"School of Humanities and Sciences","Integrative Studies",Mike,Haaf,Professor
+"School of Humanities and Sciences","Integrative Studies",Norman,Johnson,"Associate Professor"
+"School of Humanities and Sciences","Jewish Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences","Jewish Studies",Barbara,Johnson,"Emerita Professor"
+"School of Humanities and Sciences","Jewish Studies",Cynthia,Hogan,Lecturer
+"School of Humanities and Sciences","Jewish Studies",Donald,Beachler,"Associate Professor"
+"School of Humanities and Sciences","Jewish Studies",Mirit,Hadar,Lecturer
+"School of Humanities and Sciences","Jewish Studies",Peter,Silberman,"Associate Professor"
+"School of Humanities and Sciences","Jewish Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"School of Humanities and Sciences","Jewish Studies",Stephen,Clancy,"Emeritus Professor"
+"School of Humanities and Sciences","Latin American Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Humanities and Sciences","Latin American Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences","Latin American Studies",Carole,Dennis,Professor
+"School of Humanities and Sciences","Latin American Studies",Enrique,Gonzalez,"Assistant Professor"
+"School of Humanities and Sciences","Latin American Studies",Gladys,Varona,Professor
+"School of Humanities and Sciences","Latin American Studies",Hector,Velez,"Retired Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Jake,Brenner,"Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Jeff,Claus,"Emeritus Professor"
+"School of Humanities and Sciences","Latin American Studies",Jennifer,Jolly,"Associate Professor and Chair"
+"School of Humanities and Sciences","Latin American Studies",Jessica,Taves,"Assistant Professor"
+"School of Humanities and Sciences","Latin American Studies",Jonathan,Ablard,"Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Julie,Dorsey,"Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Katherine,Beissner,"Retired Professor"
+"School of Humanities and Sciences","Latin American Studies",Lynn,Gitlow,"Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Michael,Malpass,"Dana Professor"
+"School of Humanities and Sciences","Latin American Studies",Pablo,Cohen,"Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Patricia,Rodriguez,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences","Latin American Studies",Paula,Turkon,"Assistant Professor"
+"School of Humanities and Sciences","Latin American Studies",Shaianne,Osterreich,"Associate Professor"
+"School of Humanities and Sciences","Latin American Studies",Stewart,Auyash,"Associate Professor and Chair"
+"School of Humanities and Sciences","Latin American Studies",Susan,Allen,Professor
+"School of Humanities and Sciences","Latin American Studies",Zillah,Eisenstein,"Emerita Professor"
+"School of Humanities and Sciences",Mathematics,Aaron,Weinberg,"Associate Professor"
+"School of Humanities and Sciences",Mathematics,Andrew,Marshall,"Assistant Professor"
+"School of Humanities and Sciences",Mathematics,Cristina,Gomez,"Associate Professor"
+"School of Humanities and Sciences",Mathematics,Dani,Novak,"Emeritus Professor"
+"School of Humanities and Sciences",Mathematics,Daniel,Visscher,"Assistant Professor"
+"School of Humanities and Sciences",Mathematics,David,Brown,"Professor and Chair"
+"School of Humanities and Sciences",Mathematics,Diane,Schwartz,"Emerita Professor"
+"School of Humanities and Sciences",Mathematics,Doris,Wolfgramm,Lecturer
+"School of Humanities and Sciences",Mathematics,Dorothy,Buerk,"Emerita Professor"
+"School of Humanities and Sciences",Mathematics,Emilie,Wiesner,"Associate Professor"
+"School of Humanities and Sciences",Mathematics,Eric,Robinson,"Emeritus Professor"
+"School of Humanities and Sciences",Mathematics,Jack,VanDerzee,"Retired Assistant Professor, Adjunct"
+"School of Humanities and Sciences",Mathematics,James,Conklin,"Associate Professor"
+"School of Humanities and Sciences",Mathematics,John,Maceli,"Emeritus Professor"
+"School of Humanities and Sciences",Mathematics,John,Rosenthal,Professor
+"School of Humanities and Sciences",Mathematics,Margaret,Robinson,"Retired Assistant Professor"
+"School of Humanities and Sciences",Mathematics,Martin,Sternstein,"Emeritus Professor"
+"School of Humanities and Sciences",Mathematics,Matt,Thomas,"Assistant Professor"
+"School of Humanities and Sciences",Mathematics,Megan,Martinez,"Assistant Professor"
+"School of Humanities and Sciences",Mathematics,Osman,Yurekli,Professor
+"School of Humanities and Sciences",Mathematics,Richard,Cowan,Lecturer
+"School of Humanities and Sciences",Mathematics,Stanley,Seltzer,"Associate Professor"
+"School of Humanities and Sciences",Mathematics,Stephen,Hilbert,"Emeritus Professor"
+"School of Humanities and Sciences",Mathematics,Ted,Galanthay,"Assistant Professor"
+"School of Humanities and Sciences",Mathematics,Teresa,Moore,"Associate Professor"
+"School of Humanities and Sciences",Mathematics,Thomas,Pfaff,Professor
+"School of Humanities and Sciences",Mathematics,Toncy,Edakalathoor,Lecturer
+"School of Humanities and Sciences",Mathematics,Vera,Babenko,"Assistant Professor"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Christopher,Matusiak,"Associate Professor"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Dan,Breen,"Associate Professor and Chair"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Jennifer,Lyons,"Assistant Professor"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Matthew,Klemm,"Associate Professor"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Michael,Twomey,"Retired Dana Professor"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Sergio,Pedro,"Assistant Professor"
+"School of Humanities and Sciences","Medieval and Renaissance Studies",Stephen,Clancy,"Emeritus Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Alex,Lenoble,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Anne,Rodda,"Emerita Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences","Modern Languages and Literatures",Anthony,Bascelli,"Retired Associate Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",David,Barry,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Douglas,Armstrong,"Emeritus Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Enrique,Gonzalez,"Assistant Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Faten,Houissa,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Francoise,Gebhart,"Emerita Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Giovanna,Cruz,"Assistant Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Gladys,Varona,Professor
+"School of Humanities and Sciences","Modern Languages and Literatures",Hong,Li,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",James,Hassell,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",James,Pfrehm,"Associate Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Jane,Kaplan,"Emerita Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Julia,Cozzarelli,Professor
+"School of Humanities and Sciences","Modern Languages and Literatures",Louise,Donohue,"Retired Assistant Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Marella,Feltrin,"Associate Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Maria,DiFrancesco,"Professor and Chair"
+"School of Humanities and Sciences","Modern Languages and Literatures",Mat,Fournier,"Assistant Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Michael,Richardson,Professor
+"School of Humanities and Sciences","Modern Languages and Literatures",Mila,Veshcherevich,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Mirit,Hadar,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Paula,Twomey,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Rachel,Paparone,"Assistant Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Rivka,Green,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Robert,Ziomkowski,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Sabatino,Maglione,"Emeritus Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Sergio,Pedro,"Assistant Professor"
+"School of Humanities and Sciences","Modern Languages and Literatures",Silvia,Abbiati,Lecturer
+"School of Humanities and Sciences","Modern Languages and Literatures",Skye,Clarke,Lecturer
+"School of Humanities and Sciences","Movement Analysis Lab",Carole,Dennis,Professor
+"School of Humanities and Sciences","Movement Analysis Lab",Deborah,King,Professor
+"School of Humanities and Sciences","Movement Analysis Lab",Laura,Gras,"Associate Professor"
+"School of Humanities and Sciences","Movement Analysis Lab",Patrick,McKeon,"Associate Professor"
+"School of Humanities and Sciences","Movement Analysis Lab",Rumit,Kakar,"Assistant Professor"
+"School of Humanities and Sciences","Movement Analysis Lab",Sharon,Stansfield,"Associate Professor and Chair"
+"School of Humanities and Sciences","Native American Studies",Beth,Harris,"Retired Associate Professor"
+"School of Humanities and Sciences","Native American Studies",Brian,Karafin,"Assistant Professor"
+"School of Humanities and Sciences","Native American Studies",Marlene,Kobre,"Retired Assistant Professor"
+"School of Humanities and Sciences","Native American Studies",Michael,Malpass,"Dana Professor"
+"School of Humanities and Sciences","Native American Studies",Ron,Denson,"Assistant Professor"
+"School of Humanities and Sciences","No Affiliation",Adam,Lee,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Alexandre,Pinto,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Amy,O'Brien,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Amy,Quan,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Andrew,Bergevin,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Angela,Branneman,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Ann,Byrne,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Barbara,Anger,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Bill,Altman,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Brad,Treat,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Brett,Kocher,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Caroline,Ostrander,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Carrie,Tamayo,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Colin,Williams,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Dan,Barrow,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Dana,Tischler,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Edward,Panar,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Gabriel,Condon,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Greg,Smith,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Heather,Sheridan,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Holli,Mast,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jamie,Rombach,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jason,Muenzen,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jennifer,Wilkie,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jessica,Stratton,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jill,Loop,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jim,Murphy,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Jim,Overhiser,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Judith,Levitt,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Katie,Sheehan,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Kenneth,Christianson,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Kerri,Lynch,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Kit,Muma,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Lauren,Cesari,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Lucas,Blalock,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Marcy,Sutherland,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Marty,Alderman,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Michelle,Cole,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Nandadevi,Rodriguez,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Nick,Sagan,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Pamela,Pospisil,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Raza,Ahmad,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Richard,Montgomery,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Robert,Newman,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Roy,Westwater,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Ruth,Barber,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Sam,Brown,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Shehnaz,Haqqani,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Steven,Novakovic,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Sueyoung,Park,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Test,Staff,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Thomas,Seeley,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Tucker,Davis,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Vanessa,Mirabito,"No Affiliation"
+"School of Humanities and Sciences","No Affiliation",Yoon,Choi,"No Affiliation"
+"School of Humanities and Sciences","Philosophy and Religion",Angela,Rudert,Lecturer
+"School of Humanities and Sciences","Philosophy and Religion",Brian,Karafin,"Assistant Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Carol,Kates,"Retired Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Craig,Duncan,"Associate Professor and Chair"
+"School of Humanities and Sciences","Philosophy and Religion",Cynthia,Hogan,Lecturer
+"School of Humanities and Sciences","Philosophy and Religion",Danielle,Ruether,Lecturer
+"School of Humanities and Sciences","Philosophy and Religion",Dante,Dauksz,Lecturer
+"School of Humanities and Sciences","Philosophy and Religion",David,Glick,Lecturer
+"School of Humanities and Sciences","Philosophy and Religion",Frederik,Kaufman,Professor
+"School of Humanities and Sciences","Philosophy and Religion",Jonathan,Peeters,"Assistant Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Lee,Bailey,"Retired Associate Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Linda,Finlay,"Retired Associate Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Marybeth,Ruether,Lecturer
+"School of Humanities and Sciences","Philosophy and Religion",Rachel,Wagner,"Associate Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Richard,Creel,"Emeritus Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Robert,Klee,"Associate Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Serge,Grigoriev,"Associate Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Shobhana,Xavier,"Assistant Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Stephen,Schwartz,"Emeritus Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Tatiana,Patrone,"Associate Professor"
+"School of Humanities and Sciences","Philosophy and Religion",Theodore,Korzukhin,"Assistant Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Ahren,Sadoff,"Emeritus Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Beth,Joseph,"Professor and Chair"
+"School of Humanities and Sciences","Physics and Astronomy",Bruce,Thompson,"Associate Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Colleen,Countryman,"Assistant Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Daniel,Briotta,"Associate Professor"
+"School of Humanities and Sciences","Physics and Astronomy",David,Kornreich,"Assistant Professor"
+"School of Humanities and Sciences","Physics and Astronomy",John,Schwartz,"Retired Associate Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Kelley,Sullivan,"Assistant Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Luke,Keller,"Dana Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Paulen,Smith,"Emeritus Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Ryan,Ashton,Lecturer
+"School of Humanities and Sciences","Physics and Astronomy",Shoshe,Cole,"Assistant Professor"
+"School of Humanities and Sciences","Physics and Astronomy",Yeliz,Celik,Lecturer
+"School of Humanities and Sciences",Politics,Alexander,Moon,"Assistant Professor"
+"School of Humanities and Sciences",Politics,Asma,Barlas,Professor
+"School of Humanities and Sciences",Politics,Beth,Harris,"Retired Associate Professor"
+"School of Humanities and Sciences",Politics,Carlos,Figueroa,"Assistant Professor"
+"School of Humanities and Sciences",Politics,Chip,Gagnon,Professor
+"School of Humanities and Sciences",Politics,Donald,Beachler,"Associate Professor"
+"School of Humanities and Sciences",Politics,Evgenia,Ilieva,"Assistant Professor"
+"School of Humanities and Sciences",Politics,John,Ryan,"Retired Associate Professor"
+"School of Humanities and Sciences",Politics,Juan,Arroyo,"Assistant Professor"
+"School of Humanities and Sciences",Politics,Kelly,Dietz,"Assistant Professor"
+"School of Humanities and Sciences",Politics,Martin,Brownstein,"Retired Associate Professor"
+"School of Humanities and Sciences",Politics,Naeem,Inayatullah,Professor
+"School of Humanities and Sciences",Politics,Patricia,Rodriguez,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences",Politics,Peyi,Soyinka,"Professor and Chair"
+"School of Humanities and Sciences",Politics,Thomas,Shevory,Professor
+"School of Humanities and Sciences",Politics,Zillah,Eisenstein,"Emerita Professor"
+"School of Humanities and Sciences","Prelaw Option",Michael,Whelan,"Retired Assistant Professor"
+"School of Humanities and Sciences","Premed Option",Andrew,Smith,Professor
+"School of Humanities and Sciences","Premed Option",Christina,Moylan,"Assistant Professor"
+"School of Humanities and Sciences","Premed Option",Hilary,Greenberger,Professor
+"School of Humanities and Sciences","Premed Option",Ian,Woods,"Associate Professor"
+"School of Humanities and Sciences","Premed Option",Jean,Hardwick,Professor
+"School of Humanities and Sciences","Premed Option",Julia,Lapp,"Associate Professor"
+"School of Humanities and Sciences","Premed Option",Mike,Haaf,Professor
+"School of Humanities and Sciences","Premed Option",Scott,Ulrich,"Associate Professor"
+"School of Humanities and Sciences","Premed Option",Thomas,Swensen,"Professor and Chair"
+"School of Humanities and Sciences",Psychology,Ann,Lynn,"Associate Professor"
+"School of Humanities and Sciences",Psychology,Bernard,Beins,Professor
+"School of Humanities and Sciences",Psychology,Brandy,Bessette,"Assistant Professor"
+"School of Humanities and Sciences",Psychology,Colleen,Bennett,Lecturer
+"School of Humanities and Sciences",Psychology,Cris,Haltom,Lecturer
+"School of Humanities and Sciences",Psychology,Cyndy,Scheibe,Professor
+"School of Humanities and Sciences",Psychology,David,Williams,"Retired Associate Professor"
+"School of Humanities and Sciences",Psychology,Edward,Sorel,Lecturer
+"School of Humanities and Sciences",Psychology,Erin,Warren,"Assistant Professor"
+"School of Humanities and Sciences",Psychology,George,Schuler,"Emeritus Professor"
+"School of Humanities and Sciences",Psychology,Hugh,Stephenson,"Associate Professor"
+"School of Humanities and Sciences",Psychology,Jack,Peck,"Retired Professor"
+"School of Humanities and Sciences",Psychology,Jeff,Holmes,Professor
+"School of Humanities and Sciences",Psychology,Jessica,Ross,Lecturer
+"School of Humanities and Sciences",Psychology,Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Humanities and Sciences",Psychology,Judith,Pena,"Associate Professor and Chair"
+"School of Humanities and Sciences",Psychology,Karen,Williams,Lecturer
+"School of Humanities and Sciences",Psychology,Kathryn,Caldwell,"Assistant Professor"
+"School of Humanities and Sciences",Psychology,Laura,Muscalu,Lecturer
+"School of Humanities and Sciences",Psychology,Leigh,Vaughn,"Associate Professor"
+"School of Humanities and Sciences",Psychology,Linda,McBride,"Emerita Professor"
+"School of Humanities and Sciences",Psychology,Mary,DePalma,Professor
+"School of Humanities and Sciences",Psychology,Maurice,Haltom,Lecturer
+"School of Humanities and Sciences",Psychology,Nancy,Rader,Professor
+"School of Humanities and Sciences",Psychology,Shirley,Collado,"No Affiliation"
+"School of Humanities and Sciences",Psychology,Tamara,Fitzwater,"Assistant Professor"
+"School of Humanities and Sciences",Sociology,Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Humanities and Sciences",Sociology,Andrew,Thompson,"Assistant Professor"
+"School of Humanities and Sciences",Sociology,Anne,Brous,"Retired Associate Professor"
+"School of Humanities and Sciences",Sociology,Hector,Velez,"Retired Associate Professor"
+"School of Humanities and Sciences",Sociology,James,Rothenberg,"Associate Professor"
+"School of Humanities and Sciences",Sociology,Jessica,Dunning,"Assistant Professor"
+"School of Humanities and Sciences",Sociology,Jonathan,Laskowitz,"Associate Professor"
+"School of Humanities and Sciences",Sociology,Joslyn,Brenton,"Assistant Professor"
+"School of Humanities and Sciences",Sociology,Judith,Barker,"Retired Associate Professor"
+"School of Humanities and Sciences",Sociology,Julian,Euell,"Associate Professor"
+"School of Humanities and Sciences",Sociology,Katherine,Cohen,"Assistant Professor"
+"School of Humanities and Sciences",Sociology,Robert,Levine,Lecturer
+"School of Humanities and Sciences",Sociology,Sarah,Grunberg,Lecturer
+"School of Humanities and Sciences",Sociology,Sergio,Cabrera,"Assistant Professor"
+"School of Humanities and Sciences",Sociology,Stephen,Sweet,Professor
+"School of Humanities and Sciences",Sociology,Susanne,Morgan,"Emerita Professor"
+"School of Humanities and Sciences","Theatre Arts",Arno,Selco,"Professor Emeritus"
+"School of Humanities and Sciences","Theatre Arts",Austin,Jones,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Bob,Moss,Lecturer
+"School of Humanities and Sciences","Theatre Arts",Catherine,Weidner,"Professor and Chair"
+"School of Humanities and Sciences","Theatre Arts",Chrystyna,Dail,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Colin,Stewart,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Courtney,Young,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Cynthia,Henderson,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Daniel,Zimmerman,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Dean,Robinson,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Don,Tindall,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Earl,McCarroll,"Emeritus Professor"
+"School of Humanities and Sciences","Theatre Arts",Elizabeth,Livesay,Lecturer
+"School of Humanities and Sciences","Theatre Arts",Greg,Bostwick,Professor
+"School of Humanities and Sciences","Theatre Arts",Gregory,Robbins,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Jack,Hrkach,"Emeritus Professor"
+"School of Humanities and Sciences","Theatre Arts",James,Pritt,"Emeritus Professor"
+"School of Humanities and Sciences","Theatre Arts",Jennifer,Herzog,Lecturer
+"School of Humanities and Sciences","Theatre Arts",John,Bracewell,"Emeritus Professor"
+"School of Humanities and Sciences","Theatre Arts",Kara,Harmon,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Kathleen,Mulligan,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Lee,Byron,Professor
+"School of Humanities and Sciences","Theatre Arts",Lindsay,Gilmour,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Mary,Corsaro,"Retired Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Norman,Johnson,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Paula,Cole,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Rachel,Myers,Lecturer
+"School of Humanities and Sciences","Theatre Arts",Saviana,Condeescu,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Steve,TenEyck,"Professor and Associate Chair"
+"School of Humanities and Sciences","Theatre Arts",Susannah,Berryman,"Associate Professor"
+"School of Humanities and Sciences","Theatre Arts",Walter,Chon,"Assistant Professor"
+"School of Humanities and Sciences","Theatre Arts",Wendy,Dann,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Humanities and Sciences","Women's and Gender Studies",Amy,Frith,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Angela,Rudert,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Humanities and Sciences","Women's and Gender Studies",Ashley,Hall,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Bruce,Henderson,Professor
+"School of Humanities and Sciences","Women's and Gender Studies",Carla,Golden,Professor
+"School of Humanities and Sciences","Women's and Gender Studies",Claire,Gleitman,Professor
+"School of Humanities and Sciences","Women's and Gender Studies",Cornell,Woodson,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Deborah,Rifkin,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Denise,Nuttall,"Associate Professor and Chair"
+"School of Humanities and Sciences","Women's and Gender Studies",Derek,Adams,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Diane,McPherson,"Retired Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Elizabeth,Bishop,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Ellie,Fulmer,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Gladys,Varona,Professor
+"School of Humanities and Sciences","Women's and Gender Studies",Harriet,Malinowitz,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Jennifer,Germann,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Jennifer,Spitzer,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Humanities and Sciences","Women's and Gender Studies",Jonathan,Ablard,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Joslyn,Brenton,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Judith,Barker,"Retired Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Karin,Breuer,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Katharine,Kittredge,Professor
+"School of Humanities and Sciences","Women's and Gender Studies",Katharyn,Machan,Professor
+"School of Humanities and Sciences","Women's and Gender Studies",Kayla,Wheeler,
+"School of Humanities and Sciences","Women's and Gender Studies",Laurie,Arliss,"Professor and Chair"
+"School of Humanities and Sciences","Women's and Gender Studies",Louise,Mygatt,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Maria,DiFrancesco,"Professor and Chair"
+"School of Humanities and Sciences","Women's and Gender Studies",Mary,Bentley,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Mat,Fournier,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Natasha,Bissonauth,
+"School of Humanities and Sciences","Women's and Gender Studies",Nia,Nunn,"Assistant Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Rachel,Gunderson,
+"School of Humanities and Sciences","Women's and Gender Studies",Rachel,Kaufman,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"School of Humanities and Sciences","Women's and Gender Studies",Shaianne,Osterreich,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Shewanee,Howard,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Sue,Sue,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Tahlia,Fischer,Lecturer
+"School of Humanities and Sciences","Women's and Gender Studies",Vivian,Conger,"Associate Professor"
+"School of Humanities and Sciences","Women's and Gender Studies",Zillah,Eisenstein,"Emerita Professor"
+"School of Humanities and Sciences","Women's, and Gender Studies Coordinator, Psychology",Carla,Golden,Professor
+"School of Humanities and Sciences",Writing,Abbey,Numedahl,Lecturer
+"School of Humanities and Sciences",Writing,Alex,Chertok,Lecturer
+"School of Humanities and Sciences",Writing,Angie,Pelekidis,Lecturer
+"School of Humanities and Sciences",Writing,Anthony,DiRenzo,Professor
+"School of Humanities and Sciences",Writing,Augusto,Facchini,Lecturer
+"School of Humanities and Sciences",Writing,Barbara,Adams,"Associate Professor"
+"School of Humanities and Sciences",Writing,Becca,Myers,Lecturer
+"School of Humanities and Sciences",Writing,Betsye,Caughey,Lecturer
+"School of Humanities and Sciences",Writing,Caroline,Manring,Lecturer
+"School of Humanities and Sciences",Writing,Catherine,Penner,"Retired Associate Professor"
+"School of Humanities and Sciences",Writing,Catherine,Taylor,"Associate Professor"
+"School of Humanities and Sciences",Writing,Christine,Kitano,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Cory,Brown,"Associate Professor"
+"School of Humanities and Sciences",Writing,Daniel,Wilber,Lecturer
+"School of Humanities and Sciences",Writing,David,Flanagan,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Derek,McKown,Lecturer
+"School of Humanities and Sciences",Writing,Diane,McPherson,"Retired Associate Professor"
+"School of Humanities and Sciences",Writing,Eleanor,Henderson,"Associate Professor"
+"School of Humanities and Sciences",Writing,Eric,Howd,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Erin,Francisco,Lecturer
+"School of Humanities and Sciences",Writing,Fred,Wilcox,"Retired Associate Professor"
+"School of Humanities and Sciences",Writing,Geoffrey,Lee,Lecturer
+"School of Humanities and Sciences",Writing,Gina,Nutt,Lecturer
+"School of Humanities and Sciences",Writing,Hadley,Smith,"Retired Assistant Professor"
+"School of Humanities and Sciences",Writing,Harriet,Malinowitz,Lecturer
+"School of Humanities and Sciences",Writing,Ingrid,Arnesen,Lecturer
+"School of Humanities and Sciences",Writing,Jack,Wang,"Associate Professor and Chair"
+"School of Humanities and Sciences",Writing,Jacob,White,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Jaime,Warburton,"Assistant Professor"
+"School of Humanities and Sciences",Writing,James,Miranda,Lecturer
+"School of Humanities and Sciences",Writing,Jerry,Mirskin,Professor
+"School of Humanities and Sciences",Writing,Jessica,Slentz,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Jim,Stafford,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Joan,Marcus,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Kate,Doyle,Lecturer
+"School of Humanities and Sciences",Writing,Katharyn,Machan,Professor
+"School of Humanities and Sciences",Writing,Katie,Marks,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Linda,Godfrey,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Louise,Cannon,Lecturer
+"School of Humanities and Sciences",Writing,Marian,MacCurdy,"Retired Professor"
+"School of Humanities and Sciences",Writing,Marlene,Kobre,"Retired Assistant Professor"
+"School of Humanities and Sciences",Writing,Mary,O'Connor,"Retired Assistant Professor"
+"School of Humanities and Sciences",Writing,Mary,Rishel,"Emerita Professor"
+"School of Humanities and Sciences",Writing,Mary,Silva,"Associate Professor"
+"School of Humanities and Sciences",Writing,Matthew,McConnell,Lecturer
+"School of Humanities and Sciences",Writing,Megan,Graham,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Meisha,Lohmann,Lecturer
+"School of Humanities and Sciences",Writing,Miriam,Brody,"Retired Associate Professor"
+"School of Humanities and Sciences",Writing,Nancy,Holzner,Lecturer
+"School of Humanities and Sciences",Writing,Nick,Kowalczyk,"Associate Professor"
+"School of Humanities and Sciences",Writing,Rachel,Kaufman,Lecturer
+"School of Humanities and Sciences",Writing,Raul,Palma,"No Affiliation"
+"School of Humanities and Sciences",Writing,Rhian,Ellis,Lecturer
+"School of Humanities and Sciences",Writing,Ron,Denson,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Rosalie,Purvis,Lecturer
+"School of Humanities and Sciences",Writing,Sandy,Dutkowsky,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Susan,Delaney,"Associate Professor"
+"School of Humanities and Sciences",Writing,Thomas,Girshin,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Tom,Kerr,"Associate Professor"
+"School of Humanities and Sciences",Writing,Tyrell,Stewart,"Assistant Professor"
+"School of Humanities and Sciences",Writing,Valer,Popa,Lecturer
+"School of Humanities and Sciences",Writing,Vinita,Prabhakar,Lecturer
+"School of Music","Integrative Studies",Alex,Reed,"Associate Professor"
+"School of Music","Integrative Studies",Christine,Bataille,"Assistant Professor"
+"School of Music","Integrative Studies",Gary,Wells,"Associate Professor"
+"School of Music","Integrative Studies",Jerry,Mirskin,Professor
+"School of Music","Integrative Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Music","Integrative Studies",Julia,Lapp,"Associate Professor"
+"School of Music","Integrative Studies",Mary,Erickson,"Associate Professor"
+"School of Music","Integrative Studies",Mike,Haaf,Professor
+"School of Music","Integrative Studies",Norman,Johnson,"Associate Professor"
+"School of Music","Jewish Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Music","Jewish Studies",Barbara,Johnson,"Emerita Professor"
+"School of Music","Jewish Studies",Cynthia,Hogan,Lecturer
+"School of Music","Jewish Studies",Donald,Beachler,"Associate Professor"
+"School of Music","Jewish Studies",Mirit,Hadar,Lecturer
+"School of Music","Jewish Studies",Peter,Silberman,"Associate Professor"
+"School of Music","Jewish Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"School of Music","Jewish Studies",Stephen,Clancy,"Emeritus Professor"
+"School of Music","Latin American Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Music","Latin American Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Music","Latin American Studies",Carole,Dennis,Professor
+"School of Music","Latin American Studies",Enrique,Gonzalez,"Assistant Professor"
+"School of Music","Latin American Studies",Gladys,Varona,Professor
+"School of Music","Latin American Studies",Hector,Velez,"Retired Associate Professor"
+"School of Music","Latin American Studies",Jake,Brenner,"Associate Professor"
+"School of Music","Latin American Studies",Jeff,Claus,"Emeritus Professor"
+"School of Music","Latin American Studies",Jennifer,Jolly,"Associate Professor and Chair"
+"School of Music","Latin American Studies",Jessica,Taves,"Assistant Professor"
+"School of Music","Latin American Studies",Jonathan,Ablard,"Associate Professor"
+"School of Music","Latin American Studies",Julie,Dorsey,"Associate Professor"
+"School of Music","Latin American Studies",Katherine,Beissner,"Retired Professor"
+"School of Music","Latin American Studies",Lynn,Gitlow,"Associate Professor"
+"School of Music","Latin American Studies",Michael,Malpass,"Dana Professor"
+"School of Music","Latin American Studies",Pablo,Cohen,"Associate Professor"
+"School of Music","Latin American Studies",Patricia,Rodriguez,"Associate Professor and Latin American Studies Coordinator"
+"School of Music","Latin American Studies",Paula,Turkon,"Assistant Professor"
+"School of Music","Latin American Studies",Shaianne,Osterreich,"Associate Professor"
+"School of Music","Latin American Studies",Stewart,Auyash,"Associate Professor and Chair"
+"School of Music","Latin American Studies",Susan,Allen,Professor
+"School of Music","Latin American Studies",Zillah,Eisenstein,"Emerita Professor"
+"School of Music","Music Education",Alice,Ploss,Lecturer
+"School of Music","Music Education",Art,Carichner,Lecturer
+"School of Music","Music Education",Barry,Peters,Lecturer
+"School of Music","Music Education",Baruch,Whitehead,"Associate Professor"
+"School of Music","Music Education",Beatrice,Olesko,"Assistant Professor"
+"School of Music","Music Education",Belinda,Adams,Lecturer
+"School of Music","Music Education",Benjamin,Rochford,"Assistant Professor, Visiting"
+"School of Music","Music Education",Beverly,Schmidt,Lecturer
+"School of Music","Music Education",Brian,Diller,"Assistant Professor, Visiting"
+"School of Music","Music Education",Bryan,Powell,Lecturer
+"School of Music","Music Education",Chad,West,"Associate Professor and Chair"
+"School of Music","Music Education",Daniel,Fabricius,Lecturer
+"School of Music","Music Education",Doug,Avery,Lecturer
+"School of Music","Music Education",Dylan,Race,Lecturer
+"School of Music","Music Education",Fred,Weingarten,Lecturer
+"School of Music","Music Education",Gary,Chollet,Lecturer
+"School of Music","Music Education",Gary,Stith,Lecturer
+"School of Music","Music Education",George,Smith,Lecturer
+"School of Music","Music Education",Gregory,Rudgers,Lecturer
+"School of Music","Music Education",Haig,Shahverdian,Lecturer
+"School of Music","Music Education",James,Mick,"Associate Professor"
+"School of Music","Music Education",Jon,Bowen,Lecturer
+"School of Music","Music Education",Jonathan,Keefner,Lecturer
+"School of Music","Music Education",Jonathan,Kladder,"Assistant Professor"
+"School of Music","Music Education",Julie,Carr,Lecturer
+"School of Music","Music Education",Keith,Kaiser,Professor
+"School of Music","Music Education",Liz,Shuhan,Lecturer
+"School of Music","Music Education",Marc,Greene,Lecturer
+"School of Music","Music Education",Mark,Fonder,"Emeritus Professor"
+"School of Music","Music Education",Matthew,Clauhs,"Assistant Professor"
+"School of Music","Music Education",Nick,Santoro,Lecturer
+"School of Music","Music Education",Radio,Cremata,"Assistant Professor"
+"School of Music","Music Education",Richard,Eleck,Lecturer
+"School of Music","Music Education",Ron,Hebert,Lecturer
+"School of Music","Music Education",Sarah,Linfors,Lecturer
+"School of Music","Music Education",Sean,Linfors,"Assistant Professor, Visiting"
+"School of Music","Music Education",Steven,Schopp,Lecturer
+"School of Music","Music Education",Susan,Avery,"Associate Professor"
+"School of Music","Music Education",Verna,Brummett,"Retired Professor"
+"School of Music","Music Education",Victor,Izzo,Lecturer
+"School of Music","Music Education",Vincent,Aiosa,Lecturer
+"School of Music","Music Theory, History, and Composition",Alex,Reed,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Annalise,Smith,Lecturer
+"School of Music","Music Theory, History, and Composition",Carlos,Ramirez,Lecturer
+"School of Music","Music Theory, History, and Composition",Craig,Cummings,Professor
+"School of Music","Music Theory, History, and Composition",Crystal,Peebles,"Assistant Professor"
+"School of Music","Music Theory, History, and Composition",Dana,Wilson,"Emeritus Professor"
+"School of Music","Music Theory, History, and Composition",Daniel,Pesca,"Assistant Professor"
+"School of Music","Music Theory, History, and Composition",Deborah,Rifkin,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Edward,Swenson,"Retired Professor"
+"School of Music","Music Theory, History, and Composition",Elizabeth,Medina,"Assistant Professor"
+"School of Music","Music Theory, History, and Composition",Emily,Ickes,Lecturer
+"School of Music","Music Theory, History, and Composition",Erica,Levenson,Lecturer
+"School of Music","Music Theory, History, and Composition",Evis,Sammoutis,"Assistant Professor"
+"School of Music","Music Theory, History, and Composition",Jeanette,Ostrander,Lecturer
+"School of Music","Music Theory, History, and Composition",John,White,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Jorge,Grossmann,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Katie,Ballantyne,Lecturer
+"School of Music","Music Theory, History, and Composition",Les,Black,"Associate Professor and Chair Graduate Program"
+"School of Music","Music Theory, History, and Composition",Louise,Mygatt,Lecturer
+"School of Music","Music Theory, History, and Composition",Mark,Radice,Professor
+"School of Music","Music Theory, History, and Composition",Mary,Arlin,"Emerita Professor"
+"School of Music","Music Theory, History, and Composition",Merilee,Nord,"Assistant Professor"
+"School of Music","Music Theory, History, and Composition",Peter,Rothbart,Professor
+"School of Music","Music Theory, History, and Composition",Peter,Silberman,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Russell,Posegate,Lecturer
+"School of Music","Music Theory, History, and Composition",Sally,McCune,Lecturer
+"School of Music","Music Theory, History, and Composition",Sara,Haefeli,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Timothy,Johnson,"Professor and Chair"
+"School of Music","Music Theory, History, and Composition",Timothy,Nord,"Associate Professor"
+"School of Music","Music Theory, History, and Composition",Tom,Schneller,Lecturer
+"School of Music","New York City Program/Center",Allan,Mednard,Lecturer
+"School of Music","New York City Program/Center",Anahi,Douglas,Lecturer
+"School of Music","New York City Program/Center",Anthony,Volante,Lecturer
+"School of Music","New York City Program/Center",Bruce,Eidem,Lecturer
+"School of Music","New York City Program/Center",David,Lefkowich,Lecturer
+"School of Music","New York City Program/Center",David,Pietro,Lecturer
+"School of Music","New York City Program/Center",Harry,Weil,Lecturer
+"School of Music","New York City Program/Center",Jennifer,Caprio,Lecturer
+"School of Music","New York City Program/Center",Louis,Jargow,Lecturer
+"School of Music","New York City Program/Center",Michael,Kaplan,Lecturer
+"School of Music","New York City Program/Center",Reuben,Allen,Lecturer
+"School of Music","New York City Program/Center",Saisha,Grayson,Lecturer
+"School of Music","New York City Program/Center",Thomas,Piercy,Lecturer
+"School of Music","No Affiliation",Adam,Lee,"No Affiliation"
+"School of Music","No Affiliation",Alexandre,Pinto,"No Affiliation"
+"School of Music","No Affiliation",Amy,O'Brien,"No Affiliation"
+"School of Music","No Affiliation",Amy,Quan,"No Affiliation"
+"School of Music","No Affiliation",Andrew,Bergevin,"No Affiliation"
+"School of Music","No Affiliation",Angela,Branneman,"No Affiliation"
+"School of Music","No Affiliation",Ann,Byrne,"No Affiliation"
+"School of Music","No Affiliation",Barbara,Anger,"No Affiliation"
+"School of Music","No Affiliation",Bill,Altman,"No Affiliation"
+"School of Music","No Affiliation",Brad,Treat,"No Affiliation"
+"School of Music","No Affiliation",Brett,Kocher,"No Affiliation"
+"School of Music","No Affiliation",Caroline,Ostrander,"No Affiliation"
+"School of Music","No Affiliation",Carrie,Tamayo,"No Affiliation"
+"School of Music","No Affiliation",Colin,Williams,"No Affiliation"
+"School of Music","No Affiliation",Dan,Barrow,"No Affiliation"
+"School of Music","No Affiliation",Dana,Tischler,"No Affiliation"
+"School of Music","No Affiliation",Edward,Panar,"No Affiliation"
+"School of Music","No Affiliation",Gabriel,Condon,"No Affiliation"
+"School of Music","No Affiliation",Greg,Smith,"No Affiliation"
+"School of Music","No Affiliation",Heather,Sheridan,"No Affiliation"
+"School of Music","No Affiliation",Holli,Mast,"No Affiliation"
+"School of Music","No Affiliation",Jamie,Rombach,"No Affiliation"
+"School of Music","No Affiliation",Jason,Muenzen,"No Affiliation"
+"School of Music","No Affiliation",Jennifer,Wilkie,"No Affiliation"
+"School of Music","No Affiliation",Jessica,Stratton,"No Affiliation"
+"School of Music","No Affiliation",Jill,Loop,"No Affiliation"
+"School of Music","No Affiliation",Jim,Murphy,"No Affiliation"
+"School of Music","No Affiliation",Jim,Overhiser,"No Affiliation"
+"School of Music","No Affiliation",Judith,Levitt,"No Affiliation"
+"School of Music","No Affiliation",Katie,Sheehan,"No Affiliation"
+"School of Music","No Affiliation",Kenneth,Christianson,"No Affiliation"
+"School of Music","No Affiliation",Kerri,Lynch,"No Affiliation"
+"School of Music","No Affiliation",Kit,Muma,"No Affiliation"
+"School of Music","No Affiliation",Lauren,Cesari,"No Affiliation"
+"School of Music","No Affiliation",Lucas,Blalock,"No Affiliation"
+"School of Music","No Affiliation",Marcy,Sutherland,"No Affiliation"
+"School of Music","No Affiliation",Marty,Alderman,"No Affiliation"
+"School of Music","No Affiliation",Michelle,Cole,"No Affiliation"
+"School of Music","No Affiliation",Nandadevi,Rodriguez,"No Affiliation"
+"School of Music","No Affiliation",Nick,Sagan,"No Affiliation"
+"School of Music","No Affiliation",Pamela,Pospisil,"No Affiliation"
+"School of Music","No Affiliation",Raza,Ahmad,"No Affiliation"
+"School of Music","No Affiliation",Richard,Montgomery,"No Affiliation"
+"School of Music","No Affiliation",Robert,Newman,"No Affiliation"
+"School of Music","No Affiliation",Roy,Westwater,"No Affiliation"
+"School of Music","No Affiliation",Ruth,Barber,"No Affiliation"
+"School of Music","No Affiliation",Sam,Brown,"No Affiliation"
+"School of Music","No Affiliation",Shehnaz,Haqqani,"No Affiliation"
+"School of Music","No Affiliation",Steven,Novakovic,"No Affiliation"
+"School of Music","No Affiliation",Sueyoung,Park,"No Affiliation"
+"School of Music","No Affiliation",Test,Staff,"No Affiliation"
+"School of Music","No Affiliation",Thomas,Seeley,"No Affiliation"
+"School of Music","No Affiliation",Tucker,Davis,"No Affiliation"
+"School of Music","No Affiliation",Vanessa,Mirabito,"No Affiliation"
+"School of Music","No Affiliation",Yoon,Choi,"No Affiliation"
+"School of Music","Performance Studies",Aaron,Jakubiec,Lecturer
+"School of Music","Performance Studies",Alex,Perialas,"Associate Professor"
+"School of Music","Performance Studies",Alexander,Shuhan,Professor
+"School of Music","Performance Studies",Angus,Godwin,"Retired Professor"
+"School of Music","Performance Studies",Benjamin,Rochford,"Assistant Professor, Visiting"
+"School of Music","Performance Studies",Bill,Tiberio,Lecturer
+"School of Music","Performance Studies",Blaise,Bryski,Lecturer
+"School of Music","Performance Studies",Brad,Hougham,"Associate Professor"
+"School of Music","Performance Studies",Caitlin,Mathes,"Assistant Professor"
+"School of Music","Performance Studies",Calvin,Wiersma,"Assistant Professor"
+"School of Music","Performance Studies",Carl,Johengen,"Assistant Professor"
+"School of Music","Performance Studies",Carol,McAmis,Professor
+"School of Music","Performance Studies",Carolyn,Grossmann,Lecturer
+"School of Music","Performance Studies",Carrie,Reuning,Lecturer
+"School of Music","Performance Studies",Charis,Dimaras,Professor
+"School of Music","Performance Studies",Chris,Hughes,"Associate Professor"
+"School of Music","Performance Studies",Christin,Schillinger,"Assistant Professor"
+"School of Music","Performance Studies",Christopher,Zemliauskas,"Assistant Professor"
+"School of Music","Performance Studies",Conrad,Alexander,"Assistant Professor, Adjunct"
+"School of Music","Performance Studies",Craig,Harrigan,Lecturer
+"School of Music","Performance Studies",Dann,Coakwell,"Assistant Professor"
+"School of Music","Performance Studies",David,Parks,"Retired Professor"
+"School of Music","Performance Studies",David,Unland,"Retired Associate Professor"
+"School of Music","Performance Studies",Dawn,Pierce,"Assistant Professor"
+"School of Music","Performance Studies",Deborah,Martin,"Professor and Chair"
+"School of Music","Performance Studies",Deborah,Montgomery,Professor
+"School of Music","Performance Studies",Debra,Moree,"Retired Professor"
+"School of Music","Performance Studies",Diane,Birr,Professor
+"School of Music","Performance Studies",Dmitri,Novgorodsky,"Assistant Professor"
+"School of Music","Performance Studies",Elisabeth,Marshall,"Assistant Professor"
+"School of Music","Performance Studies",Elizabeth,Simkin,"Associate Professor"
+"School of Music","Performance Studies",Emily,DiAngelo,Lecturer
+"School of Music","Performance Studies",Erik,Angerhofer,"Assistant Professor"
+"School of Music","Performance Studies",Frank,Campos,Professor
+"School of Music","Performance Studies",Geoffrey,McDonald,Lecturer
+"School of Music","Performance Studies",Glenn,Einschlag,Lecturer
+"School of Music","Performance Studies",Gordon,Stout,Professor
+"School of Music","Performance Studies",Greg,Evans,Lecturer
+"School of Music","Performance Studies",Harold,Reynolds,Professor
+"School of Music","Performance Studies",Heidi,Hoffman,Lecturer
+"School of Music","Performance Studies",Henry,Neubert,"Emeritus Professor"
+"School of Music","Performance Studies",Ivy,Walz,"Associate Professor"
+"School of Music","Performance Studies",Jacob,Walsh,Lecturer
+"School of Music","Performance Studies",Janet,Galvan,Professor
+"School of Music","Performance Studies",Jayne,Demakos,Lecturer
+"School of Music","Performance Studies",Jean,Radice,Lecturer
+"School of Music","Performance Studies",Jeanne,Goddard,Lecturer
+"School of Music","Performance Studies",Jeffrey,Gray,Lecturer
+"School of Music","Performance Studies",Jennifer,Kay,"Associate Professor"
+"School of Music","Performance Studies",Jessica,Caporizzo,Lecturer
+"School of Music","Performance Studies",John,Holiday,"Assistant Professor"
+"School of Music","Performance Studies",Joyce,Catalfano,Lecturer
+"School of Music","Performance Studies",Kim,Dunnick,Professor
+"School of Music","Performance Studies",Kimberly,Nazarian,Lecturer
+"School of Music","Performance Studies",Kirsten,Marshall,Lecturer
+"School of Music","Performance Studies",Kyle,Armbrust,"Assistant Professor, Visiting"
+"School of Music","Performance Studies",Laura,Amoriello,"Assistant Professor"
+"School of Music","Performance Studies",Lawrence,Doebler,"Retired Professor"
+"School of Music","Performance Studies",Lee,Romm,"Retired Professor"
+"School of Music","Performance Studies",Marc,Webster,"Assistant Professor"
+"School of Music","Performance Studies",Margaret,Reitz,Lecturer
+"School of Music","Performance Studies",Mary,Holzhauer,Lecturer
+"School of Music","Performance Studies",Merilee,Nord,"Assistant Professor"
+"School of Music","Performance Studies",Michael,Caporizzo,"Assistant Professor"
+"School of Music","Performance Studies",Michael,Galvan,Professor
+"School of Music","Performance Studies",Michael,Hall,"Assistant Professor"
+"School of Music","Performance Studies",Michael,Titlebaum,"Associate Professor"
+"School of Music","Performance Studies",Nicholas,Walker,"Associate Professor"
+"School of Music","Performance Studies",Nick,Weiser,Lecturer
+"School of Music","Performance Studies",Nikola,Tomic,"Assistant Professor"
+"School of Music","Performance Studies",Octavio,Mas,"Associate Professor"
+"School of Music","Performance Studies",Pablo,Cohen,"Associate Professor"
+"School of Music","Performance Studies",Paige,Morgan,Professor
+"School of Music","Performance Studies",Patrice,Pastore,Professor
+"School of Music","Performance Studies",Peter,Chwazik,Lecturer
+"School of Music","Performance Studies",Phiroze,Mehta,"Emeritus Professor"
+"School of Music","Performance Studies",Randie,Blooding,"Retired Associate Professor"
+"School of Music","Performance Studies",Rebecca,Gilbert,"Assistant Professor"
+"School of Music","Performance Studies",Richard,Faria,Professor
+"School of Music","Performance Studies",Steve,Brown,"Emeritus Professor"
+"School of Music","Performance Studies",Steven,Mauk,Professor
+"School of Music","Performance Studies",Susan,Waterbury,Professor
+"School of Music","Performance Studies",Tamara,Acosta,"Assistant Professor"
+"School of Music","Performance Studies",Vadim,Serebryany,"Assistant Professor"
+"School of Music","Performance Studies",Wendy,Mehne,Professor
+"School of Music","Performance Studies",William,Sutherland,Lecturer
+"School of Music","Women's and Gender Studies",Alicia,Swords,"Associate Professor and Honors Program Director"
+"School of Music","Women's and Gender Studies",Amy,Frith,"Associate Professor"
+"School of Music","Women's and Gender Studies",Angela,Rudert,Lecturer
+"School of Music","Women's and Gender Studies",Annette,Levine,"Associate Professor and Latin American Studies Coordinator"
+"School of Music","Women's and Gender Studies",Ashley,Hall,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Bruce,Henderson,Professor
+"School of Music","Women's and Gender Studies",Carla,Golden,Professor
+"School of Music","Women's and Gender Studies",Claire,Gleitman,Professor
+"School of Music","Women's and Gender Studies",Cornell,Woodson,Lecturer
+"School of Music","Women's and Gender Studies",Deborah,Rifkin,"Associate Professor"
+"School of Music","Women's and Gender Studies",Denise,Nuttall,"Associate Professor and Chair"
+"School of Music","Women's and Gender Studies",Derek,Adams,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Diane,McPherson,"Retired Associate Professor"
+"School of Music","Women's and Gender Studies",Elizabeth,Bishop,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Ellie,Fulmer,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Gladys,Varona,Professor
+"School of Music","Women's and Gender Studies",Harriet,Malinowitz,Lecturer
+"School of Music","Women's and Gender Studies",Jennifer,Germann,"Associate Professor"
+"School of Music","Women's and Gender Studies",Jennifer,Spitzer,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Jessye,Cohen,"Assistant Professor and Honors Program Coordinator"
+"School of Music","Women's and Gender Studies",Jonathan,Ablard,"Associate Professor"
+"School of Music","Women's and Gender Studies",Joslyn,Brenton,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Judith,Barker,"Retired Associate Professor"
+"School of Music","Women's and Gender Studies",Karin,Breuer,"Associate Professor"
+"School of Music","Women's and Gender Studies",Katharine,Kittredge,Professor
+"School of Music","Women's and Gender Studies",Katharyn,Machan,Professor
+"School of Music","Women's and Gender Studies",Kayla,Wheeler,
+"School of Music","Women's and Gender Studies",Laurie,Arliss,"Professor and Chair"
+"School of Music","Women's and Gender Studies",Louise,Mygatt,Lecturer
+"School of Music","Women's and Gender Studies",Maria,DiFrancesco,"Professor and Chair"
+"School of Music","Women's and Gender Studies",Mary,Bentley,"Associate Professor"
+"School of Music","Women's and Gender Studies",Mat,Fournier,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Natasha,Bissonauth,
+"School of Music","Women's and Gender Studies",Nia,Nunn,"Assistant Professor"
+"School of Music","Women's and Gender Studies",Rachel,Gunderson,
+"School of Music","Women's and Gender Studies",Rachel,Kaufman,Lecturer
+"School of Music","Women's and Gender Studies",Rebecca,Lesses,"Associate Professor and Jewish Studies Coordinator"
+"School of Music","Women's and Gender Studies",Shaianne,Osterreich,"Associate Professor"
+"School of Music","Women's and Gender Studies",Shewanee,Howard,Lecturer
+"School of Music","Women's and Gender Studies",Sue,Sue,"Associate Professor"
+"School of Music","Women's and Gender Studies",Tahlia,Fischer,Lecturer
+"School of Music","Women's and Gender Studies",Vivian,Conger,"Associate Professor"
+"School of Music","Women's and Gender Studies",Zillah,Eisenstein,"Emerita Professor"
